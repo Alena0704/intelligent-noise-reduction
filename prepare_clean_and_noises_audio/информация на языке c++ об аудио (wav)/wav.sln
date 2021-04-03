@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wav", "wav\wav.csproj", "{77DDE977-0434-4BF8-AAE3-3722C9F28748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DDE977-0434-4BF8-AAE3-3722C9F28748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DDE977-0434-4BF8-AAE3-3722C9F28748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DDE977-0434-4BF8-AAE3-3722C9F28748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DDE977-0434-4BF8-AAE3-3722C9F28748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9D5459-A482-49D3-A03C-E55C57CD7EEE}
+	EndGlobalSection
+EndGlobal
