@@ -1,0 +1,13 @@
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\bin\Debug\netcoreapp3.1\wav.exe
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\bin\Debug\netcoreapp3.1\wav.deps.json
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\bin\Debug\netcoreapp3.1\wav.runtimeconfig.json
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\bin\Debug\netcoreapp3.1\wav.runtimeconfig.dev.json
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\bin\Debug\netcoreapp3.1\wav.dll
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\bin\Debug\netcoreapp3.1\wav.pdb
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\obj\Debug\netcoreapp3.1\wav.csprojAssemblyReference.cache
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\obj\Debug\netcoreapp3.1\wav.AssemblyInfoInputs.cache
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\obj\Debug\netcoreapp3.1\wav.AssemblyInfo.cs
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\obj\Debug\netcoreapp3.1\wav.csproj.CoreCompileInputs.cache
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\obj\Debug\netcoreapp3.1\wav.dll
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\obj\Debug\netcoreapp3.1\wav.pdb
+C:\Users\Alenushka\Dropbox\сириус\wav\wav\obj\Debug\netcoreapp3.1\wav.genruntimeconfig.cache
