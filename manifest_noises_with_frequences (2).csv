@@ -1,0 +1,952 @@
+,index,type_,path,rms,power,mean_frequency
+0,0,The sound of a mousetrap,noises_without_silence/mousetrap1.wav,1.60375,24.83,88.02395209580837
+1,1,The sound of a mousetrap,noises_without_silence/mousetrap2.wav,2.44925,33.42,120.22705078125
+2,2,The sound of a mousetrap,noises_without_silence/mousetrap3.wav,0.625125,32.06,150.0
+3,3,The sound of a mousetrap,noises_without_silence/mousetrap4.wav,1.6091875,21.25,140.44585987261144
+4,4,The sound of a mousetrap,noises_without_silence/mousetrap5.wav,1.0901875,26.9,113.04931640625
+5,5,The sound of lockers,noises_without_silence/lockers1.wav,5.2435,30.9,144.11764705882354
+6,6,The sound of lockers,noises_without_silence/lockers2.wav,2.3523125,50.43,193.798828125
+7,7,The sound of lockers,noises_without_silence/lockers3.wav,32.681375,31.06,166.88232421875
+8,8,The sound of lockers,noises_without_silence/lockers4.wav,11.8231875,21.89,226.0986328125
+9,9,The sound of lockers,noises_without_silence/lockers5.wav,1.79175,20.18,190.08620689655172
+10,10,Canned_food,noises_without_silence/Canned_food1.wav,1.4378125,24.51,153.125
+11,11,Canned_food,noises_without_silence/Canned_food2.wav,14.2835,39.76,173.62204724409452
+12,12,Canned_food,noises_without_silence/Canned_food3.wav,16.169,22.43,280.8917197452229
+13,13,Canned_food,noises_without_silence/Canned_food4.wav,8.3970625,31.51,253.01513671875
+14,14,Canned_food,noises_without_silence/Canned_food5.wav,1.402375,21.92,206.07476635514016
+15,15,The noise of the crowd,noises_without_silence/crowd1.wav,13.9626875,23.25,286.3636363636364
+16,16,The noise of the crowd,noises_without_silence/crowd2.wav,125.83225,26.02,364.46280991735534
+17,17,The noise of the crowd,noises_without_silence/crowd3.wav,70.8379375,30.56,432.35294117647067
+18,18,The noise of the crowd,noises_without_silence/crowd4.wav,121.239125,23.2,331.57894736842104
+19,19,The noise of the crowd,noises_without_silence/crowd5.wav,70.799375,27.57,286.3636363636364
+20,20,The noise of the machine,noises_without_silence/machine1.wav,12.903125,21.38,173.91304347826087
+21,21,The noise of the machine,noises_without_silence/machine2.wav,5.9374375,29.52,152.59515570934255
+22,22,The noise of the machine,noises_without_silence/machine3.wav,61.4230625,10.0,306.25
+23,23,The noise of the machine,noises_without_silence/machine4.wav,12.903125,21.38,173.91304347826087
+24,24,The noise of the machine,noises_without_silence/machine5.wav,7.4406875,9.61,146.484375
+25,25,Alarm and siren,noises_without_silence/alarm1.wav,8.6231875,26.69,165.1685393258427
+26,26,Alarm and siren,noises_without_silence/alarm2.wav,20.7015,13.57,102.7972027972028
+27,27,Alarm and siren,noises_without_silence/alarm3.wav,30.57975,21.71,445.01953125
+28,28,Alarm and siren,noises_without_silence/alarm4.wav,61.360375,19.99,172.94117647058826
+29,29,Alarm and siren,noises_without_silence/alarm5.wav,31.3529375,12.24,253.4482758620689
+30,30,the sound of water,noises_without_silence/water1.wav,8.1248125,33.09,321.8978102189781
+31,31,the sound of water,noises_without_silence/water2.wav,6.819,25.34,184.51882845188285
+32,32,the sound of water,noises_without_silence/water3.wav,72.232375,41.18,223.85786802030458
+33,33,the sound of water,noises_without_silence/water4.wav,16.0925,29.77,179.2682926829268
+34,34,the sound of water,noises_without_silence/water5.wav,36.4641875,25.94,215.33203125
+35,35,Water dripping,noises_without_silence/cap1.wav,100.978375,38.92,184.79484395777925
+36,36,Water dripping,noises_without_silence/cap2.wav,61.1510625,48.97,181.48148148148152
+37,37,Water dripping,noises_without_silence/cap3.wav,30.5704375,21.1,235.8288770053476
+38,38,Water dripping,noises_without_silence/cap4.wav,184.1330625,49.45,234.5744680851064
+39,39,Water dripping,noises_without_silence/cap5.wav,64.8686875,31.17,350.0
+40,40,The sound of water,noises_without_silence/sound_of_water1.wav,122.3433125,42.94,193.421052631579
+41,41,The sound of water,noises_without_silence/sound_of_water2.wav,49.4044375,36.44,155.8303886925795
+42,42,The sound of water,noises_without_silence/sound_of_water3.wav,60.0015,24.75,183.75
+43,43,The sound of water,noises_without_silence/sound_of_water4.wav,76.5166875,43.33,227.319587628866
+44,44,The sound of water,noises_without_silence/sound_of_water5.wav,9.5931875,36.89,288.23529411764713
+45,45,The wind,noises_without_silence/wind1.wav,48.2993125,18.5,408.33333333333326
+46,46,The wind,noises_without_silence/wind2.wav,63.130875,26.88,264.07185628742513
+47,47,The wind,noises_without_silence/wind3.wav,92.824625,16.64,400.9090909090909
+48,48,The wind,noises_without_silence/wind4.wav,31.645875,19.87,172.265625
+49,49,The wind,noises_without_silence/wind5.wav,5.8763125,22.28,141.34615384615384
+50,50,Bell,noises_without_silence/bell1.wav,30.99575,20.51,220.5
+51,51,Bell,noises_without_silence/bell2.wav,59.7479375,24.18,361.4754098360656
+52,52,Bell,noises_without_silence/bell3.wav,84.7948125,29.96,301.46484375
+53,53,Bell,noises_without_silence/bell4.wav,10.471375,31.51,380.17241379310343
+54,54,Bell,noises_without_silence/bell5.wav,78.940125,26.52,319.5652173913044
+55,55,Cough,noises_without_silence/cough1.wav,2.0415,33.91,302.05479452054794
+56,56,Cough,noises_without_silence/cough2.wav,2.503,21.88,376.8310546875
+57,57,Cough,noises_without_silence/cough3.wav,17.1243125,25.58,334.09090909090907
+58,58,Cough,noises_without_silence/cough4.wav,2.5079375,25.61,350.0
+59,59,Cough,noises_without_silence/cough5.wav,2.7235625,24.62,233.33333333333331
+60,60,Cotton,noises_without_silence/coton1.wav,33.1515,21.77,179.2682926829268
+61,61,Cotton,noises_without_silence/coton2.wav,10.5416875,20.95,181.48148148148152
+62,62,Cotton,noises_without_silence/coton3.wav,28.06075,27.5,169.61538461538458
+63,63,Cotton,noises_without_silence/coton4.wav,27.7508125,29.41,161.4990234375
+64,64,Cotton,noises_without_silence/coton5.wav,5.59125,22.86,227.319587628866
+65,65,Snoring,noises_without_silence/snoring1.wav,69.2785,28.56,170.9197998046875
+66,66,Snoring,noises_without_silence/snoring2.wav,289.7710625,25.0,412.14953271028037
+67,67,Snoring,noises_without_silence/snoring3.wav,143.396875,22.36,198.64864864864865
+68,68,Snoring,noises_without_silence/snoring4.wav,26.4843125,21.67,256.3953488372093
+69,69,Snoring,noises_without_silence/snoring5.wav,61.069375,26.84,203.070068359375
+70,70,Pressing the button,noises_without_silence/button1.wav,0.5500625,30.16,122.13740458015268
+71,71,Pressing the button,noises_without_silence/button2.wav,11.6440625,37.22,155.8303886925795
+72,72,Pressing the button,noises_without_silence/button4.wav,0.50125,21.89,156.11572265625
+73,73,Pressing the button,noises_without_silence/button5.wav,2.398125,36.87,99.77375565610859
+74,74,Female laughter,noises_without_silence/female_laugh1.wav,18.747875,26.24,341.86046511627904
+75,75,Female laughter,noises_without_silence/female_laugh2.wav,8.5638125,28.3,339.23076923076917
+76,76,Female laughter,noises_without_silence/female_laugh3.wav,92.869625,23.65,436.6336633663366
+77,77,Female laughter,noises_without_silence/female_laugh4.wav,22.022,25.43,366.064453125
+78,78,Female laughter,noises_without_silence/female_laugh5.wav,53.9906875,26.24,324.3243243243243
+79,79,man laughter,noises_without_silence/man_laugh1.wav,3.307875,20.38,352.8
+80,80,man laughter,noises_without_silence/man_laugh2.wav,2.5510625,27.65,376.92307692307685
+81,81,man laughter,noises_without_silence/man_laugh3.wav,19.74575,26.63,304.1379310344828
+82,82,man laughter,noises_without_silence/man_laugh4.wav,24.89325,25.94,409.130859375
+83,83,man laughter,noises_without_silence/man_laugh5.wav,7.5624375,26.59,390.26548672566366
+84,84,Children's laughter,noises_without_silence/children_laugh1.wav,7.248125,13.5,408.33333333333326
+85,85,Children's laughter,noises_without_silence/children_laugh2.wav,40.74875,11.16,448.59813084112153
+86,86,Children's laughter,noises_without_silence/children_laugh3.wav,18.7840625,26.5,420.0
+87,87,Children's laughter,noises_without_silence/children_laugh4.wav,35.0130625,22.37,432.35294117647067
+88,88,Children's laughter,noises_without_silence/children_laugh5.wav,12.7458125,23.93,404.5871559633028
+89,89,Yawn,noises_without_silence/yawn1.wav,12.83125,28.1,419.8974609375
+90,90,Yawn,noises_without_silence/yawn2.wav,27.281625,24.37,416.0377358490566
+91,91,Yawn,noises_without_silence/yawn3.wav,9.524625,28.14,286.3636363636364
+92,92,Yawn,noises_without_silence/yawn4.wav,6.32425,25.94,284.51612903225805
+93,93,Yawn,noises_without_silence/yawn5.wav,12.75675,25.78,334.09090909090907
+94,94,Cry,noises_without_silence/cry1.wav,16.9385625,19.63,416.0377358490566
+95,95,Cry,noises_without_silence/cry2.wav,126.2555,33.52,446.81396484375
+96,96,Cry,noises_without_silence/cry3.wav,27.3238125,20.91,446.81396484375
+97,97,Cry,noises_without_silence/cry4.wav,31.101625,26.02,445.45454545454544
+98,98,Cry,noises_without_silence/cry5.wav,25.57925,20.63,445.45454545454544
+99,99,Women's cry,noises_without_silence/woman_cry1.wav,8.13275,23.3,430.6640625
+100,100,Women's cry,noises_without_silence/woman_cry2.wav,63.988125,24.09,445.45454545454544
+101,101,Women's cry,noises_without_silence/woman_cry3.wav,10.3666875,20.39,432.35294117647067
+102,102,Women's cry,noises_without_silence/woman_cry4.wav,22.7071875,23.92,448.59813084112153
+103,103,Women's cry,noises_without_silence/woman_cry5.wav,20.4620625,31.83,441.4306640625
+104,104,man cry,noises_without_silence/man_cry1.wav,26.875,24.58,358.5365853658536
+105,105,man cry,noises_without_silence/man_cry2.wav,16.1181875,17.49,445.45454545454544
+106,106,man cry,noises_without_silence/man_cry3.wav,19.022000000000002,37.78,400.9090909090909
+107,107,man cry,noises_without_silence/man_cry4.wav,43.383,33.06,358.88671875
+108,108,man cry,noises_without_silence/man_cry5.wav,3.1769375,17.51,355.64516129032256
+109,109,Shower Cabin,noises_without_silence/Shower_Cabin1.wav,39.064125,39.46,341.86046511627904
+110,110,Shower Cabin,noises_without_silence/Shower_Cabin2.wav,119.932125,28.98,363.6363636363636
+111,111,Shower Cabin,noises_without_silence/Shower_Cabin3.wav,9.2488125,21.41,242.24853515625
+112,112,Shower Cabin,noises_without_silence/Shower_Cabin4.wav,28.9025625,29.56,237.09677419354838
+113,113,Shower Cabin,noises_without_silence/Shower_Cabin5.wav,2.5043125,33.31,118.4326171875
+114,114,Brushing your teeth,noises_without_silence/Brushing_your_teeth1.wav,26.774625,34.63,150.51194539249147
+115,115,Brushing your teeth,noises_without_silence/Brushing_your_teeth2.wav,13.6184375,28.24,148.14814814814815
+116,116,Brushing your teeth,noises_without_silence/Brushing_your_teeth3.wav,16.078625,40.05,198.64864864864865
+117,117,Brushing your teeth,noises_without_silence/Brushing_your_teeth4.wav,82.37799999999999,19.67,186.07594936708858
+118,118,Brushing your teeth,noises_without_silence/Brushing_your_teeth5.wav,27.630875,35.48,155.28169014084506
+119,119,Steps,noises_without_silence/step1.wav,6.2700625,43.55,161.4990234375
+120,120,Steps,noises_without_silence/step2.wav,4.15425,31.96,165.78947368421052
+121,121,Steps,noises_without_silence/step3.wav,38.5356875,37.67,134.58251953125
+122,122,Steps,noises_without_silence/step4.wav,21.1519375,32.83,184.51882845188285
+123,123,Steps,noises_without_silence/step5.wav,98.90625,23.4,189.2703862660944
+124,124,Opening the door,noises_without_silence/open_door1.wav,2.7355,17.3,187.5
+125,125,Opening the door,noises_without_silence/open_door2.wav,3.8294375,27.06,205.02835648148147
+126,126,Opening the door,noises_without_silence/open_door3.wav,2.9834375,27.45,156.11572265625
+127,127,Opening the door,noises_without_silence/open_door4.wav,3.085625,35.68,145.34912109375
+128,128,Opening the door,noises_without_silence/open_door5.wav,4.943625,29.28,408.33333333333326
+129,129,Closing the door,noises_without_silence/close_door1.wav,4.857,32.35,200.83682008368197
+130,130,Closing the door,noises_without_silence/close_door2.wav,5.356625,16.36,446.81396484375
+131,131,Closing the door,noises_without_silence/close_door3.wav,8.74175,33.93,139.9658203125
+132,132,Closing the door,noises_without_silence/close_door4.wav,3.3819375,17.69,194.331983805668
+133,133,Closing the door,noises_without_silence/close_door5.wav,26.211625,30.95,247.6318359375
+134,134,Dialing a phone number,noises_without_silence/phone1.wav,12.3499375,34.52,308.3916083916084
+135,135,Dialing a phone number,noises_without_silence/phone2.wav,8.6921875,26.96,249.15254237288138
+136,136,Dialing a phone number,noises_without_silence/phone3.wav,4.7595,19.87,158.63309352517985
+137,137,Dialing a phone number,noises_without_silence/phone4.wav,10.1360625,20.03,212.0192307692308
+138,138,Dialing a phone number,noises_without_silence/phone5.wav,11.21225,35.97,226.15384615384616
+139,139,Noise on the bus,noises_without_silence/bus1.wav,31.2888125,21.66,297.97297297297297
+140,140,Noise on the bus,noises_without_silence/bus2.wav,18.7663125,19.13,310.5633802816901
+141,141,Noise on the bus,noises_without_silence/bus3.wav,92.337625,19.11,174.3083003952569
+142,142,Noise on the bus,noises_without_silence/bus4.wav,122.484,24.38,202.2935779816514
+143,143,Noise on the bus,noises_without_silence/bus5.wav,29.89675,15.11,183.75
+144,144,In the cafe,noises_without_silence/cafe1.wav,196.4323125,31.92,265.6626506024097
+145,145,In the cafe,noises_without_silence/cafe2.wav,368.8961875,21.39,397.2972972972973
+146,146,In the cafe,noises_without_silence/cafe3.wav,63.591625,31.43,308.3916083916084
+147,147,In the cafe,noises_without_silence/cafe4.wav,174.7176875,29.47,288.23529411764713
+148,148,In the cafe,noises_without_silence/cafe5.wav,132.186125,30.95,233.0097087378641
+149,149,In the restaurant,noises_without_silence/restoran1.wav,179.9243125,19.5,245.0
+150,150,In the restaurant,noises_without_silence/restoran2.wav,114.6141875,32.12,339.23076923076917
+151,151,In the restaurant,noises_without_silence/restoran3.wav,123.9416875,29.36,344.53125
+152,152,In the restaurant,noises_without_silence/restoran4.wav,299.960125,32.32,267.27272727272725
+153,153,In the restaurant,noises_without_silence/restoran5.wav,47.38325,30.37,182.98755186721993
+154,154,City center,noises_without_silence/centre1.wav,68.0391875,21.53,267.27272727272725
+155,155,City center,noises_without_silence/centre2.wav,197.265875,29.71,206.07476635514016
+156,156,City center,noises_without_silence/centre3.wav,89.7013125,21.89,334.09090909090907
+157,157,City center,noises_without_silence/centre4.wav,31.3231875,36.43,174.3083003952569
+158,158,City center,noises_without_silence/centre5.wav,46.6208125,18.24,190.08620689655172
+159,159,Forest,noises_without_silence/forest1.wav,75.972375,21.08,197.75784753363232
+160,160,Forest,noises_without_silence/forest2.wav,170.2983125,32.11,220.71533203125
+161,161,Forest,noises_without_silence/forest3.wav,27.5825,19.11,331.57894736842104
+162,162,Forest,noises_without_silence/forest4.wav,64.40175,25.14,202.2935779816514
+163,163,Forest,noises_without_silence/forest5.wav,358.402375,39.66,424.0384615384616
+164,164,Grocery store,noises_without_silence/product_shop1.wav,66.794875,25.39,300.0
+165,165,Grocery store,noises_without_silence/product_shop2.wav,119.800125,36.42,199.54751131221718
+166,166,Grocery store,noises_without_silence/product_shop3.wav,145.28625,30.05,334.09090909090907
+167,167,Grocery store,noises_without_silence/product_shop4.wav,45.9298125,32.74,188.41552734375
+168,168,Grocery store,noises_without_silence/product_shop5.wav,121.8496875,32.53,196.0
+169,169,Fan,noises_without_silence/fen1.wav,60.016625,30.35,262.5
+170,170,Fan,noises_without_silence/fen2.wav,102.460125,22.42,274.54833984375
+171,171,Fan,noises_without_silence/fen3.wav,36.8438125,21.57,185.29411764705884
+172,172,Fan,noises_without_silence/fen4.wav,40.1690625,30.93,306.25
+173,173,Fan,noises_without_silence/fen5.wav,10.176125,25.98,196.875
+174,174,Copy machine,noises_without_silence/xerox2.wav,48.1149375,24.09,358.5365853658536
+175,175,Copy machine,noises_without_silence/xerox3.wav,40.1355,22.12,294.0
+176,176,Copy machine,noises_without_silence/xerox4.wav,23.8935,38.04,205.11627906976744
+177,177,Copy machine,noises_without_silence/xerox5.wav,9.62425,24.67,352.8
+178,178,Tide of the wave,noises_without_silence/wave_beach1.wav,34.1705625,26.97,306.25
+179,179,Tide of the wave,noises_without_silence/wave_beach2.wav,149.7936875,30.03,294.47852760736197
+180,180,Tide of the wave,noises_without_silence/wave_beach3.wav,25.9406875,22.03,220.71533203125
+181,181,Tide of the wave,noises_without_silence/wave_beach4.wav,136.40425,32.47,308.3916083916084
+182,182,Tide of the wave,noises_without_silence/wave_beach5.wav,121.9266875,30.67,172.265625
+183,183,Metro station,noises_without_silence/metro1.wav,91.43125,5.66,286.3636363636364
+184,184,Metro station,noises_without_silence/metro2.wav,73.521375,28.95,196.0
+185,185,Metro station,noises_without_silence/metro3.wav,19.0775625,29.35,158.06451612903226
+186,186,Metro station,noises_without_silence/metro4.wav,190.8256875,13.13,342.85714285714283
+187,187,Metro station,noises_without_silence/metro5.wav,67.599875,28.25,317.2661870503597
+188,188,office,noises_without_silence/ofis1.wav,92.79725,33.29,339.23076923076917
+189,189,office,noises_without_silence/ofis2.wav,31.94675,27.16,270.55214723926383
+190,190,office,noises_without_silence/ofis3.wav,90.2140625,26.27,242.3076923076923
+191,191,office,noises_without_silence/ofis4.wav,62.26025,27.99,219.40298507462688
+192,192,office,noises_without_silence/ofis5.wav,91.3215625,26.52,289.07996336239034
+193,193,Department store ticket office,noises_without_silence/kassa1.wav,9.0183125,34.23,161.4990234375
+194,194,Department store ticket office,noises_without_silence/kassa2.wav,11.63375,31.86,177.64892578125
+195,195,Department store ticket office,noises_without_silence/kassa3.wav,5.2925,31.26,177.64892578125
+196,196,Department store ticket office,noises_without_silence/kassa4.wav,36.094,30.66,153.125
+197,197,Department store ticket office,noises_without_silence/kassa5.wav,6.5703125,33.5,170.93023255813952
+198,198,Train,noises_without_silence/train1.wav,11.9060625,30.24,341.86046511627904
+199,199,Train,noises_without_silence/train2.wav,52.1061875,21.11,167.680608365019
+200,200,Train,noises_without_silence/train3.wav,45.5994375,25.27,193.798828125
+201,201,Train,noises_without_silence/train4.wav,61.885375,18.98,270.55214723926383
+202,202,Train,noises_without_silence/train5.wav,109.977125,28.75,209.94873046875
+203,203,Tram,noises_without_silence/tram1.wav,22.7475625,25.3,199.18212890625
+204,204,Tram,noises_without_silence/tram2.wav,133.9448125,30.11,329.1044776119403
+205,205,Tram,noises_without_silence/tram3.wav,25.5749375,33.78,196.875
+206,206,Tram,noises_without_silence/tram4.wav,11.581,22.77,211.00478468899516
+207,207,Tram,noises_without_silence/tram5.wav,31.0245625,23.18,218.3168316831683
+208,208,Park,noises_without_silence/park1.wav,70.919375,21.53,321.8978102189781
+209,209,Park,noises_without_silence/park2.wav,44.009125,26.64,295.9731543624161
+210,210,Park,noises_without_silence/park3.wav,57.600125,27.22,235.8288770053476
+211,211,Park,noises_without_silence/park4.wav,61.8795625,26.16,220.5
+212,212,Park,noises_without_silence/park5.wav,118.6274375,24.76,232.10526315789474
+213,213,Stadium,noises_without_silence/staion1.wav,7.6288125,23.25,347.24409448818903
+214,214,Stadium,noises_without_silence/staion2.wav,108.536375,21.89,441.0
+215,215,Stadium,noises_without_silence/staion3.wav,23.28625,25.9,162.13235294117646
+216,216,Stadium,noises_without_silence/staion4.wav,100.9360625,31.09,292.0529801324504
+217,217,Stadium,noises_without_silence/staion5.wav,34.1856875,23.91,256.3953488372093
+218,218,Football match,noises_without_silence/football1.wav,301.719375,29.93,367.5
+219,219,Football match,noises_without_silence/football2.wav,71.03725,25.7,262.5
+220,220,Football match,noises_without_silence/football3.wav,35.44825,23.97,163.94052044609666
+221,221,Football match,noises_without_silence/football4.wav,62.331875,22.62,171.5953307392996
+222,222,Football match,noises_without_silence/football5.wav,203.3894375,19.33,222.72727272727272
+223,223,hospital,noises_without_silence/hospital1.wav,54.9335,28.16,260.94674556213016
+224,224,hospital,noises_without_silence/hospital2.wav,169.9503125,37.95,338.0281690140845
+225,225,hospital,noises_without_silence/hospital3.wav,145.1213125,29.94,376.92307692307685
+226,226,hospital,noises_without_silence/hospital4.wav,33.5778125,33.29,161.53846153846158
+227,227,hospital,noises_without_silence/hospital5.wav,76.2931875,20.99,172.265625
+228,228,Rustle of leaves,noises_without_silence/Rustle_of_leaves1.wav,24.436625,34.58,169.61538461538458
+229,229,Rustle of leaves,noises_without_silence/Rustle_of_leaves2.wav,89.956375,31.8,347.24409448818903
+230,230,Rustle of leaves,noises_without_silence/Rustle_of_leaves3.wav,3.512125,42.9,147.49163879598663
+231,231,Rustle of leaves,noises_without_silence/Rustle_of_leaves4.wav,147.3593125,33.65,174.3083003952569
+232,232,Rustle of leaves,noises_without_silence/Rustle_of_leaves5.wav,65.5456875,44.4,212.0192307692308
+233,233,Thunder,noises_without_silence/thunder1.wav,72.119875,15.11,216.17647058823533
+234,234,Thunder,noises_without_silence/thunder2.wav,62.3576875,33.02,230.8900523560209
+235,235,Thunder,noises_without_silence/thunder3.wav,213.53325,36.99,193.798828125
+236,236,Thunder,noises_without_silence/thunder4.wav,11.520375,23.51,158.203125
+237,237,Thunder,noises_without_silence/thunder5.wav,37.935625,15.77,206.07476635514016
+238,238,Rain,noises_without_silence/rain1.wav,87.361125,24.34,167.04545454545453
+239,239,Rain,noises_without_silence/rain2.wav,83.084,24.43,137.93103448275863
+240,240,Rain,noises_without_silence/rain3.wav,58.6753125,28.84,179.2682926829268
+241,241,Rain,noises_without_silence/rain4.wav,112.1309375,42.91,238.37837837837841
+242,242,Rain,noises_without_silence/rain5.wav,23.0295625,39.12,154.73684210526315
+243,243,washing machine,noises_without_silence/washing_machine1.wav,61.497625,23.14,143.64820846905536
+244,244,washing machine,noises_without_silence/washing_machine2.wav,32.5054375,19.43,231.48193359375
+245,245,washing machine,noises_without_silence/washing_machine3.wav,79.491125,24.99,199.54751131221718
+246,246,washing machine,noises_without_silence/washing_machine4.wav,62.8406875,28.18,182.98755186721993
+247,247,washing machine,noises_without_silence/washing_machine5.wav,46.772,25.03,182.78451014046718
+248,248,coffee,noises_without_silence/coffee1.wav,31.4461875,26.6,205.11627906976744
+249,249,coffee,noises_without_silence/coffee2.wav,5.30025,20.17,147.49163879598663
+250,250,coffee,noises_without_silence/coffee3.wav,93.3181875,29.47,233.33333333333331
+251,251,coffee,noises_without_silence/coffee4.wav,65.831,40.17,262.5
+252,252,coffee,noises_without_silence/coffee5.wav,6.1475625,15.45,215.12195121951217
+253,253,Siren,noises_without_silence/siren1.wav,99.8435,25.52,380.17241379310343
+254,254,Siren,noises_without_silence/siren2.wav,60.9325625,22.81,445.45454545454544
+255,255,Siren,noises_without_silence/siren3.wav,154.1375625,23.1,445.45454545454544
+256,256,Siren,noises_without_silence/siren4.wav,30.988000000000003,25.95,195.3125
+257,257,Siren,noises_without_silence/siren5.wav,18.911375,16.53,441.0
+258,258,kofemolka,noises_without_silence/kofemolka1.wav,33.6835,30.0,180.0
+259,259,kofemolka,noises_without_silence/kofemolka2.wav,18.2615,37.87,172.265625
+260,260,kofemolka,noises_without_silence/kofemolka3.wav,24.904625,22.78,168.3206106870229
+261,261,kofemolka,noises_without_silence/kofemolka4.wav,18.253625,30.52,183.90804597701145
+262,262,kofemolka,noises_without_silence/kofemolka5.wav,187.5265625,29.61,219.40298507462688
+263,263,creak,noises_without_silence/skrip1.wav,11.6625625,37.5,181.48148148148152
+264,264,creak,noises_without_silence/skrip2.wav,49.3911875,33.15,432.35294117647067
+265,265,creak,noises_without_silence/skrip3.wav,5.6009375,44.08,231.48193359375
+266,266,creak,noises_without_silence/skrip4.wav,1.2691875,19.44,182.98755186721993
+267,267,creak,noises_without_silence/skrip5.wav,3.04325,31.25,126.0
+268,268,shake off your clothes,noises_without_silence/shake_off_your_clothes1.wav,38.702,37.49,223.2558139534884
+269,269,shake off your clothes,noises_without_silence/shake_off_your_clothes2.wav,25.4671875,32.51,176.4
+270,270,shake off your clothes,noises_without_silence/shake_off_your_clothes3.wav,1.879875,40.8,135.27607361963192
+271,271,shake off your clothes,noises_without_silence/shake_off_your_clothes4.wav,100.266875,26.99,242.3076923076923
+272,272,shake off your clothes,noises_without_silence/shake_off_your_clothes5.wav,6.288375,43.38,178.54251012145747
+273,273,Man voice,noises_without_silence/man_talk1.wav,50.0310625,24.5,253.4482758620689
+274,274,Man voice,noises_without_silence/man_talk2.wav,44.4898125,26.79,252.0
+275,275,Man voice,noises_without_silence/man_talk3.wav,8.7073125,27.99,367.5
+276,276,Man voice,noises_without_silence/man_talk4.wav,10.7595,24.18,341.86046511627904
+277,277,Man voice,noises_without_silence/man_talk5.wav,10.0321875,26.58,373.72881355932196
+278,278,Children's voice,noises_without_silence/children_talk1.wav,79.0463125,36.73,341.86046511627904
+279,279,Children's voice,noises_without_silence/children_talk2.wav,123.91675,37.54,355.64516129032256
+280,280,Children's voice,noises_without_silence/children_talk3.wav,5.4431875,23.03,370.5882352941177
+281,281,Children's voice,noises_without_silence/children_talk4.wav,3.4775,20.89,341.86046511627904
+282,282,Children's voice,noises_without_silence/children_talk5.wav,22.796375,20.77,315.0
+283,283,Female voice,noises_without_silence/woman_talk1.wav,33.605375,25.63,386.84210526315786
+284,284,Female voice,noises_without_silence/woman_talk2.wav,57.1296875,28.36,350.0
+285,285,Female voice,noises_without_silence/woman_talk3.wav,75.301375,29.55,404.5871559633028
+286,286,Female voice,noises_without_silence/woman_talk4.wav,24.7898125,25.96,315.0
+287,287,Female voice,noises_without_silence/woman_talk5.wav,13.8458125,15.11,223.85786802030458
+288,288,Boiling water,noises_without_silence/boiling1.wav,119.0745625,27.78,166.66666666666666
+289,289,Boiling water,noises_without_silence/boiling2.wav,33.31425,21.03,169.61538461538458
+290,290,Boiling water,noises_without_silence/boiling3.wav,40.837625,23.44,257.8947368421053
+291,291,Boiling water,noises_without_silence/boiling4.wav,5.5375,21.25,169.61538461538458
+292,292,Boiling water,noises_without_silence/boiling5.wav,66.19575,28.54,193.421052631579
+293,293,Zip closure,noises_without_silence/zastegivanye1.wav,4.438375,42.8,304.1379310344828
+294,294,Zip closure,noises_without_silence/zastegivanye2.wav,3.9214375,20.28,272.72727272727275
+295,295,Zip closure,noises_without_silence/zastegivanye3.wav,0.602125,32.37,331.57894736842104
+296,296,Zip closure,noises_without_silence/zastegivanye4.wav,5.9880625,25.85,209.00473933649292
+297,297,Zip closure,noises_without_silence/zastegivanye5.wav,10.15775,23.66,175.69721115537845
+298,298,Drill,noises_without_silence/drell1.wav,34.58375,11.11,315.0
+299,299,Drill,noises_without_silence/drell2.wav,28.6640625,48.72,290.13157894736844
+300,300,Drill,noises_without_silence/drell3.wav,34.012625,22.49,168.3206106870229
+301,301,Drill,noises_without_silence/drell4.wav,38.969,22.25,181.23779296875
+302,302,Drill,noises_without_silence/drell5.wav,15.9463125,18.4,194.27312775330398
+303,303,Driving a nail,noises_without_silence/zabivanye1.wav,80.8980625,19.99,156.11572265625
+304,304,Driving a nail,noises_without_silence/zabivanye2.wav,12.639375,28.29,199.18212890625
+305,305,Driving a nail,noises_without_silence/zabivanye3.wav,12.639375,28.29,199.18212890625
+306,306,Driving a nail,noises_without_silence/zabivanye4.wav,12.1526875,39.42,145.54455445544554
+307,307,Driving a nail,noises_without_silence/zabivanye5.wav,9.483625,14.42,145.34912109375
+308,308,Chainsaw,noises_without_silence/benzopila1.wav,98.2349375,24.12,282.6923076923077
+309,309,Chainsaw,noises_without_silence/benzopila2.wav,38.105625,26.24,124.22535211267606
+310,310,Chainsaw,noises_without_silence/benzopila3.wav,9.6225625,29.06,134.58251953125
+311,311,Chainsaw,noises_without_silence/benzopila4.wav,56.34975,29.65,242.24853515625
+312,312,Chainsaw,noises_without_silence/benzopila5.wav,99.2419375,27.57,242.24853515625
+313,313,The fan noise,noises_without_silence/ventilyator1.wav,42.3365,34.74,218.3168316831683
+314,314,The fan noise,noises_without_silence/ventilyator2.wav,9.7851875,21.72,174.54545454545453
+315,315,The fan noise,noises_without_silence/ventilyator3.wav,20.5314375,25.08,170.93023255813952
+316,316,The fan noise,noises_without_silence/ventilyator4.wav,94.2573125,20.98,231.48193359375
+317,317,The fan noise,noises_without_silence/ventilyator5.wav,106.97225,28.79,214.07766990291265
+318,318,Fire,noises_without_silence/koster2.wav,19.264375,29.42,161.53846153846158
+319,319,Fire,noises_without_silence/koster3.wav,23.9935625,33.93,151.02739726027397
+320,320,Fire,noises_without_silence/koster4.wav,21.581125,42.07,193.421052631579
+321,321,Fire,noises_without_silence/koster5.wav,99.6433125,35.6,177.64892578125
+322,322,Lighting a match,noises_without_silence/spichki1.wav,4.98425,49.9,141.34615384615384
+323,323,Lighting a match,noises_without_silence/spichki2.wav,1.2529375,23.81,104.00943396226415
+324,324,Lighting a match,noises_without_silence/spichki3.wav,2.5716875,24.57,134.86238532110093
+325,325,Lighting a match,noises_without_silence/spichki4.wav,11.3809375,44.98,166.88232421875
+326,326,Lighting a match,noises_without_silence/spichki5.wav,64.0390625,43.76,321.8978102189781
+327,327,Boiling oil,noises_without_silence/jarka1.wav,114.61225,38.09,265.6626506024097
+328,328,Boiling oil,noises_without_silence/jarka2.wav,79.469625,45.51,166.88232421875
+329,329,Boiling oil,noises_without_silence/jarka3.wav,56.1235,32.51,170.27027027027026
+330,330,Boiling oil,noises_without_silence/jarka4.wav,21.0399375,72.49,166.88232421875
+331,331,Boiling oil,noises_without_silence/jarka5.wav,79.9485625,23.25,160.15625
+332,332,Howl of the wolf,noises_without_silence/wolf1.wav,4.97725,19.53,448.59813084112153
+333,333,Howl of the wolf,noises_without_silence/wolf2.wav,29.92125,21.55,444.4444444444445
+334,334,Howl of the wolf,noises_without_silence/wolf3.wav,315.4194375,31.07,380.17241379310343
+335,335,Howl of the wolf,noises_without_silence/wolf4.wav,94.3948125,26.86,445.45454545454544
+336,336,Howl of the wolf,noises_without_silence/wolf5.wav,179.965875,34.36,436.6336633663366
+337,337,Horse race,noises_without_silence/kony1.wav,16.120125,25.74,386.84210526315786
+338,338,Horse race,noises_without_silence/kony2.wav,6.7889375,22.71,148.4848484848485
+339,339,Horse race,noises_without_silence/kony3.wav,13.0248125,28.36,130.79019073569484
+340,340,Horse race,noises_without_silence/kony4.wav,11.9913125,12.26,235.8288770053476
+341,341,Horse race,noises_without_silence/kony5.wav,51.690125,27.91,231.48193359375
+342,342,The noise of battle,noises_without_silence/battle1.wav,93.3834375,18.33,180.0
+343,343,The noise of battle,noises_without_silence/battle2.wav,58.746625,26.5,242.3076923076923
+344,344,The noise of battle,noises_without_silence/battle3.wav,172.458,15.4,256.3953488372093
+345,345,The noise of battle,noises_without_silence/battle4.wav,3.7025,15.71,158.63309352517985
+346,346,The noise of battle,noises_without_silence/battle5.wav,75.6016875,23.46,190.9090909090909
+347,347,The noise of the firing,noises_without_silence/pistol1.wav,17.8165625,18.15,156.11572265625
+348,348,The noise of the firing,noises_without_silence/pistol2.wav,1.0155,27.26,150.0
+349,349,The noise of the firing,noises_without_silence/pistol3.wav,148.810375,28.44,203.2258064516129
+350,350,The noise of the firing,noises_without_silence/pistol4.wav,109.5909375,31.89,300.0
+351,351,The noise of the firing,noises_without_silence/pistol5.wav,86.6909375,17.65,347.24409448818903
+352,352,The noise of the forge,noises_without_silence/kuznitsa1.wav,39.457,40.32,315.0
+353,353,The noise of the forge,noises_without_silence/kuznitsa2.wav,20.9754375,34.29,197.75784753363232
+354,354,The noise of the forge,noises_without_silence/kuznitsa3.wav,26.916375,16.21,260.94674556213016
+355,355,The noise of the forge,noises_without_silence/kuznitsa4.wav,20.9754375,34.29,197.75784753363232
+356,356,The noise of the forge,noises_without_silence/kuznitsa5.wav,87.2038125,16.76,183.75
+357,357,Noise of breaking glass,noises_without_silence/breaking_glass1.wav,2.1735,24.45,172.94117647058826
+358,358,Noise of breaking glass,noises_without_silence/breaking_glass2.wav,26.091875,28.65,181.48148148148152
+359,359,Noise of breaking glass,noises_without_silence/breaking_glass3.wav,7.510875,27.76,182.98755186721993
+360,360,Noise of breaking glass,noises_without_silence/breaking_glass4.wav,1.657125,26.23,107.666015625
+361,361,Noise of breaking glass,noises_without_silence/breaking_glass5.wav,25.1550625,29.29,290.6982421875
+362,362,Noise of blows on the glass,noises_without_silence/blows_glass1.wav,1.4005625,29.4,148.4848484848485
+363,363,Noise of blows on the glass,noises_without_silence/blows_glass2.wav,14.057625,25.05,162.73062730627305
+364,364,Noise of blows on the glass,noises_without_silence/blows_glass3.wav,1.4005625,29.4,148.4848484848485
+365,365,Noise of blows on the glass,noises_without_silence/blows_glass4.wav,1.4086875,15.95,147.0
+366,366,Noise of blows on the glass,noises_without_silence/blows_glass5.wav,3.621375,29.66,123.87640449438204
+367,367,airplane_into,noises_without_silence/airplane_into1.wav,32.9135625,15.18,220.71533203125
+368,368,airplane_into,noises_without_silence/airplane_into2.wav,23.6655625,16.12,166.88232421875
+369,369,airplane_into,noises_without_silence/airplane_into3.wav,10.5275,15.41,157.5
+370,370,airplane_into,noises_without_silence/airplane_into4.wav,41.1426875,20.94,152.59515570934255
+371,371,airplane_into,noises_without_silence/airplane_into5.wav,38.6083125,16.15,197.75784753363232
+372,372,rolling the dice,noises_without_silence/cubik1.wav,2.3716875,41.3,92.33476167929292
+373,373,rolling the dice,noises_without_silence/cubik2.wav,2.003,34.04,116.05263157894736
+374,374,rolling the dice,noises_without_silence/cubik3.wav,1.6895,26.61,93.82978723404257
+375,375,rolling the dice,noises_without_silence/cubik4.wav,24.5295,35.97,158.63309352517985
+376,376,rolling the dice,noises_without_silence/cubik5.wav,33.2426875,38.05,264.07185628742513
+377,377,Helicopter,noises_without_silence/vertolet1.wav,128.2185,25.1,246.36871508379892
+378,378,Helicopter,noises_without_silence/vertolet2.wav,25.688625,23.15,217.24137931034485
+379,379,Helicopter,noises_without_silence/vertolet3.wav,50.4108125,17.53,156.11572265625
+380,380,Helicopter,noises_without_silence/vertolet4.wav,35.4701875,25.41,170.93023255813952
+381,381,Helicopter,noises_without_silence/vertolet5.wav,89.88675,21.66,225.53787231445312
+382,382,telega,noises_without_silence/telega1.wav,72.0594375,25.44,179.2682926829268
+383,383,telega,noises_without_silence/telega2.wav,55.8886875,30.9,218.3168316831683
+384,384,telega,noises_without_silence/telega3.wav,33.8611875,35.27,139.9658203125
+385,385,telega,noises_without_silence/telega4.wav,54.38375,22.52,233.33333333333331
+386,386,telega,noises_without_silence/telega5.wav,44.3041875,29.73,226.0986328125
+387,387,Snow,noises_without_silence/snow1.wav,10.9908125,33.19,166.88232421875
+388,388,Snow,noises_without_silence/snow2.wav,3.1644375,27.52,136.95652173913044
+389,389,Snow,noises_without_silence/snow3.wav,17.1370625,26.68,167.04545454545453
+390,390,Snow,noises_without_silence/snow4.wav,22.86275,29.96,161.53846153846158
+391,391,Snow,noises_without_silence/snow5.wav,22.5945625,33.46,152.59515570934255
+392,392,Plane,noises_without_silence/airplane2.wav,34.299125,26.32,178.54251012145747
+393,393,Plane,noises_without_silence/airplane3.wav,21.16225,36.89,198.64864864864865
+394,394,Plane,noises_without_silence/airplane4.wav,15.0931875,26.86,232.10526315789474
+395,395,Plane,noises_without_silence/airplane5.wav,25.6770625,22.0,247.7528089887641
+396,396,Plane,noises_without_silence/airplane1.wav,25.761125,24.46,191.7391304347826
+397,397,The noise of the birds,noises_without_silence/birds1.wav,83.06375,29.23,185.29411764705884
+398,398,The noise of the birds,noises_without_silence/birds2.wav,65.5023125,33.26,329.1044776119403
+399,399,The noise of the birds,noises_without_silence/birds3.wav,446.4988125,25.39,212.0192307692308
+400,400,The noise of the birds,noises_without_silence/birds4.wav,122.375125,33.33,206.07476635514016
+401,401,The noise of the birds,noises_without_silence/birds5.wav,119.5919375,19.6,202.2935779816514
+402,402,The noise of a mosquito,noises_without_silence/komar1.wav,29.7345,27.16,361.4754098360656
+403,403,The noise of a mosquito,noises_without_silence/komar2.wav,36.4346875,33.4,355.64516129032256
+404,404,The noise of a mosquito,noises_without_silence/komar3.wav,24.3075625,32.83,350.0
+405,405,The noise of a mosquito,noises_without_silence/komar4.wav,10.3165,36.91,355.5555555555556
+406,406,The noise of a mosquito,noises_without_silence/komar5.wav,22.851,45.81,390.26548672566366
+407,407,Sneezes,noises_without_silence/chihanye1.wav,1.1833125,18.04,213.0434782608696
+408,408,Sneezes,noises_without_silence/chihanye2.wav,0.8246875,15.12,179.2682926829268
+409,409,Sneezes,noises_without_silence/chihanye3.wav,2.5676875,27.6,150.732421875
+410,410,Sneezes,noises_without_silence/chihanye4.wav,2.0364375,15.96,253.4482758620689
+411,411,Sneezes,noises_without_silence/chihanye5.wav,6.8855,32.91,329.1044776119403
+412,412,The sounds of chewing,noises_without_silence/jevanie1.wav,15.1786875,39.29,137.8125
+413,413,The sounds of chewing,noises_without_silence/jevanie2.wav,9.1144375,39.72,123.81591796875
+414,414,The sounds of chewing,noises_without_silence/jevanie3.wav,7.0605625,35.99,147.98657718120805
+415,415,The sounds of chewing,noises_without_silence/jevanie4.wav,4.1441875,25.96,145.34912109375
+416,416,The sounds of chewing,noises_without_silence/jevanie5.wav,6.4525625,46.75,162.65270961315883
+417,417,The noise of the construction,noises_without_silence/stroyka1.wav,8.4055625,23.57,309.381884765625
+418,418,The noise of the construction,noises_without_silence/stroyka2.wav,10.339,19.82,250.5681818181818
+419,419,The noise of the construction,noises_without_silence/stroyka3.wav,82.555,27.01,214.96078500300248
+420,420,The noise of the construction,noises_without_silence/stroyka4.wav,120.3076875,25.65,231.77030522190742
+421,421,The noise of the construction,noises_without_silence/stroyka5.wav,60.454125,29.93,302.05479452054794
+422,422,The noise of the store,noises_without_silence/shop1.wav,19.699375,24.52,201.36986301369862
+423,423,The noise of the store,noises_without_silence/shop2.wav,0.589875,29.56,114.24870466321244
+424,424,The noise of the store,noises_without_silence/shop3.wav,53.735125,33.26,178.54251012145747
+425,425,The noise of the store,noises_without_silence/shop4.wav,69.2858125,34.47,219.40298507462688
+426,426,The noise of the store,noises_without_silence/shop5.wav,38.4705,44.74,166.88232421875
+427,427,The sound of theatre,noises_without_silence/theatre1.wav,24.418625,14.62,256.3953488372093
+428,428,The sound of theatre,noises_without_silence/theatre2.wav,249.7665,39.46,315.0
+429,429,The sound of theatre,noises_without_silence/theatre3.wav,60.3699375,24.27,257.8947368421053
+430,430,The sound of theatre,noises_without_silence/theatre4.wav,133.0916875,31.43,243.646408839779
+431,431,The sound of theatre,noises_without_silence/theatre5.wav,31.086,27.29,294.0
+432,432,The noise of the club,noises_without_silence/club1.wav,42.0361875,16.29,319.5652173913044
+433,433,The noise of the club,noises_without_silence/club2.wav,89.681625,30.29,295.9731543624161
+434,434,The noise of the club,noises_without_silence/club3.wav,61.7138125,33.18,226.0986328125
+435,435,The noise of the club,noises_without_silence/club4.wav,65.9123125,24.29,200.45454545454547
+436,436,The noise of the club,noises_without_silence/club5.wav,123.322125,29.8,375.0
+437,437,The noise of the toilet,noises_without_silence/zvuk-gdtoulet1.wav,66.1973125,31.55,263.78173828125
+438,438,The noise of the toilet,noises_without_silence/zvuk-gdtoulet2.wav,11.96475,21.86,204.5654296875
+439,439,The noise of the toilet,noises_without_silence/zvuk-gdtoulet3.wav,10.2734375,34.64,175.0
+440,440,The noise of the toilet,noises_without_silence/zvuk-gdtoulet4.wav,56.72275,31.61,268.90243902439016
+441,441,The noise of the toilet,noises_without_silence/zvuk-gdtoulet5.wav,9.99075,27.05,172.265625
+442,442,drug noise,noises_without_silence/drug1.wav,5.6058125,35.54,161.4990234375
+443,443,drug noise,noises_without_silence/drug2.wav,1.0411875,24.0,236.865234375
+444,444,drug noise,noises_without_silence/drug3.wav,15.89225,29.59,170.93023255813952
+445,445,drug noise,noises_without_silence/drug4.wav,1.2569375,30.11,170.2749252319336
+446,446,drug noise,noises_without_silence/drug5.wav,1.31675,24.83,166.88232421875
+447,447,Battery noise,noises_without_silence/batareya1.wav,6.0060625,18.23,285.31494140625
+448,448,Battery noise,noises_without_silence/batareya2.wav,6.9768125,24.85,212.0192307692308
+449,449,Battery noise,noises_without_silence/batareya3.wav,3.2473125,23.47,203.2258064516129
+450,450,Battery noise,noises_without_silence/batareya4.wav,79.0509375,45.01,172.265625
+451,451,Battery noise,noises_without_silence/batareya5.wav,3.2473125,23.47,203.2258064516129
+452,452,The sound of the tank,noises_without_silence/tank1.wav,27.9011875,20.53,221.19815668202762
+453,453,The sound of the tank,noises_without_silence/tank2.wav,21.1025625,21.5,179.2682926829268
+454,454,The sound of the tank,noises_without_silence/tank3.wav,19.3406875,22.09,212.0192307692308
+455,455,The sound of the tank,noises_without_silence/tank4.wav,21.857125,22.19,168.3206106870229
+456,456,The sound of the tank,noises_without_silence/tank5.wav,69.1825625,24.69,193.798828125
+457,457,Parallel sounds,noises_without_silence/Parallel1.wav,7.435,10.43,339.84375
+458,458,Parallel sounds,noises_without_silence/Parallel2.wav,22.8960625,9.64,297.97297297297297
+459,459,Parallel sounds,noises_without_silence/Parallel3.wav,24.2213125,24.43,393.75
+460,460,Parallel sounds,noises_without_silence/Parallel4.wav,8.18675,20.25,273.4375
+461,461,Parallel sounds,noises_without_silence/Parallel5.wav,29.7301875,25.28,347.24409448818903
+462,462,The sound of shinomancy,noises_without_silence/shinomancy1.wav,87.10375,28.49,274.54833984375
+463,463,The sound of shinomancy,noises_without_silence/shinomancy2.wav,12.259875,30.77,219.40298507462688
+464,464,The sound of shinomancy,noises_without_silence/shinomancy3.wav,13.39125,33.83,169.61538461538458
+465,465,The sound of shinomancy,noises_without_silence/shinomancy4.wav,8.836125,26.02,273.91304347826093
+466,466,The sound of shinomancy,noises_without_silence/shinomancy5.wav,70.4516875,24.4,188.46153846153842
+467,467,The sound of the airport,noises_without_silence/airport1.wav,59.486000000000004,29.98,324.26470588235287
+468,468,The sound of the airport,noises_without_silence/airport2.wav,20.2368125,17.59,172.94117647058826
+469,469,The sound of the airport,noises_without_silence/airport3.wav,3.19675,13.39,328.7671232876712
+470,470,The sound of the airport,noises_without_silence/airport4.wav,59.486000000000004,29.98,324.26470588235287
+471,471,The sound of the airport,noises_without_silence/airport5.wav,88.624,35.84,275.625
+472,472,The sound of the skateboard,noises_without_silence/skateboard1.wav,38.5245,28.52,264.07185628742513
+473,473,The sound of the skateboard,noises_without_silence/skateboard2.wav,10.666875,37.17,156.11572265625
+474,474,The sound of the skateboard,noises_without_silence/skateboard3.wav,2.0519375,27.26,175.0
+475,475,The sound of the skateboard,noises_without_silence/skateboard4.wav,10.6290625,22.35,295.9731543624161
+476,476,The sound of the skateboard,noises_without_silence/skateboard5.wav,5.092625,24.69,220.5
+477,477,Sound of wheels slipping,noises_without_silence/wheels_slipping1.wav,6.92275,26.12,174.3083003952569
+478,478,Sound of wheels slipping,noises_without_silence/wheels_slipping2.wav,11.567875,16.01,215.12195121951217
+479,479,Sound of wheels slipping,noises_without_silence/wheels_slipping3.wav,6.0958125,25.59,206.07476635514016
+480,480,Sound of wheels slipping,noises_without_silence/wheels_slipping4.wav,12.631125,19.59,156.11572265625
+481,481,Sound of wheels slipping,noises_without_silence/wheels_slipping5.wav,5.202375,30.65,370.5882352941177
+482,482,Sounds of a police car,noises_without_silence/police1.wav,21.178375,26.78,212.0192307692308
+483,483,Sounds of a police car,noises_without_silence/police2.wav,6.8628125,27.53,133.63636363636363
+484,484,Sounds of a police car,noises_without_silence/police3.wav,6.698375,29.85,155.8303886925795
+485,485,Sounds of a police car,noises_without_silence/police4.wav,25.336125,36.81,208.0188679245283
+486,486,Sounds of a police car,noises_without_silence/police5.wav,60.395625,28.53,341.86046511627904
+487,487,The sounds of an ambulance,noises_without_silence/ambulance1.wav,20.28125,24.75,386.84210526315786
+488,488,The sounds of an ambulance,noises_without_silence/ambulance2.wav,70.5013125,25.94,376.92307692307685
+489,489,The sounds of an ambulance,noises_without_silence/ambulance3.wav,61.0441875,26.61,420.0
+490,490,The sounds of an ambulance,noises_without_silence/ambulance4.wav,23.2185625,16.23,444.4444444444445
+491,491,The sounds of an ambulance,noises_without_silence/ambulance5.wav,11.2530625,3.85,200.45454545454547
+492,492,The sound of a fire truck,noises_without_silence/fire_truck1.wav,1.211625,17.89,202.2935779816514
+493,493,The sound of a fire truck,noises_without_silence/fire_truck2.wav,30.988000000000003,25.95,195.3125
+494,494,The sound of a fire truck,noises_without_silence/fire_truck3.wav,27.35775,20.97,220.5
+495,495,The sound of a fire truck,noises_without_silence/fire_truck4.wav,13.0749375,19.53,225.73974609375
+496,496,The sound of a fire truck,noises_without_silence/fire_truck5.wav,11.3418125,21.06,321.8978102189781
+497,497,Sound of car brakes,noises_without_silence/brakes1.wav,2.8708125,15.32,262.5
+498,498,Sound of car brakes,noises_without_silence/brakes2.wav,8.787875,26.32,159.2057761732852
+499,499,Sound of car brakes,noises_without_silence/brakes3.wav,44.2864375,12.48,377.95275590551176
+500,500,Sound of car brakes,noises_without_silence/brakes4.wav,16.965999999999998,24.35,193.421052631579
+501,501,Sound of car brakes,noises_without_silence/brakes5.wav,2.4090625,18.34,163.33333333333334
+502,502,Mixer sound,noises_without_silence/Mixer1.wav,11.8371875,14.63,312.7659574468085
+503,503,Mixer sound,noises_without_silence/Mixer2.wav,32.2474375,21.91,284.51612903225805
+504,504,Mixer sound,noises_without_silence/Mixer3.wav,41.6058125,20.82,273.91304347826093
+505,505,Mixer sound,noises_without_silence/Mixer4.wav,34.377875,24.17,341.86046511627904
+506,506,Mixer sound,noises_without_silence/Mixer5.wav,114.4959375,26.79,282.6923076923077
+507,507,The sound of the ATM,noises_without_silence/ATM1.wav,8.4855,23.58,186.07594936708858
+508,508,The sound of the ATM,noises_without_silence/ATM2.wav,9.308375,53.48,222.22222222222226
+509,509,The sound of the ATM,noises_without_silence/ATM3.wav,14.8745625,18.06,199.54751131221718
+510,510,The sound of the ATM,noises_without_silence/ATM4.wav,1.5556875,16.09,279.1139240506329
+511,511,The sound of the ATM,noises_without_silence/ATM5.wav,27.5835,37.69,297.97297297297297
+512,512,Nuke,noises_without_silence/Nuke1.wav,41.684,32.73,180.7377049180328
+513,513,Nuke,noises_without_silence/Nuke2.wav,7.561125,24.09,122.84122562674095
+514,514,Nuke,noises_without_silence/Nuke3.wav,29.3410625,26.6,218.3168316831683
+515,515,Nuke,noises_without_silence/Nuke4.wav,1.971125,22.83,117.1875
+516,516,Nuke,noises_without_silence/Nuke5.wav,74.6080625,20.54,177.82258064516128
+517,517,The sound of the radio,noises_without_silence/radio1.wav,10.5609375,26.83,132.9639889196676
+518,518,The sound of the radio,noises_without_silence/radio2.wav,13.097625,25.67,367.5
+519,519,The sound of the radio,noises_without_silence/radio3.wav,16.5879375,18.97,441.0
+520,520,The sound of the radio,noises_without_silence/radio4.wav,49.9865625,21.83,163.94052044609666
+521,521,The sound of the radio,noises_without_silence/radio5.wav,75.7815,44.39,126.72413793103449
+522,522,The sound of the escalator,noises_without_silence/escalator1.wav,37.0886875,21.48,210.0
+523,523,The sound of the escalator,noises_without_silence/escalator2.wav,45.6653125,38.34,190.08620689655172
+524,524,The sound of the escalator,noises_without_silence/escalator3.wav,62.792,22.41,215.33203125
+525,525,The sound of the escalator,noises_without_silence/escalator4.wav,32.058125,16.81,167.04545454545453
+526,526,The sound of the escalator,noises_without_silence/escalator5.wav,120.176875,22.77,168.96551724137933
+527,527,The sound of the box,noises_without_silence/box1.wav,1.9938125,25.77,141.34615384615384
+528,528,The sound of the box,noises_without_silence/box2.wav,7.025,19.5,104.25531914893615
+529,529,The sound of the box,noises_without_silence/box3.wav,8.383625,20.97,102.28271484375
+530,530,The sound of the box,noises_without_silence/box4.wav,4.574,28.14,339.23076923076917
+531,531,The sound of the box,noises_without_silence/box5.wav,28.6781875,25.49,386.84210526315786
+532,532,The sound of the toaster,noises_without_silence/toaster1.wav,7.89675,37.01,219.40298507462688
+533,533,The sound of the toaster,noises_without_silence/toaster2.wav,1.5154375,31.79,99.548532731377
+534,534,The sound of the toaster,noises_without_silence/toaster3.wav,15.78275,35.51,231.48193359375
+535,535,The sound of the toaster,noises_without_silence/toaster4.wav,6.687625,34.52,134.58251953125
+536,536,The sound of the toaster,noises_without_silence/toaster5.wav,4.2104375,33.73,147.1435546875
+537,537,The sound of the camera,noises_without_silence/camera1.wav,1.38,26.34,132.43243243243242
+538,538,The sound of the camera,noises_without_silence/camera2.wav,1.464875,24.99,123.81591796875
+539,539,The sound of the camera,noises_without_silence/camera3.wav,2.339625,23.54,120.49180327868851
+540,540,The sound of the camera,noises_without_silence/camera4.wav,0.522375,19.69,309.67741935483866
+541,541,The sound of the camera,noises_without_silence/camera5.wav,11.612125,39.87,143.1818181818182
+542,542,The sound of basketball,noises_without_silence/basketball1.wav,18.165125,28.65,237.62376237623764
+543,543,The sound of basketball,noises_without_silence/basketball2.wav,90.430375,28.99,424.0384615384616
+544,544,The sound of basketball,noises_without_silence/basketball3.wav,87.6275625,26.26,190.9090909090909
+545,545,The sound of basketball,noises_without_silence/basketball4.wav,88.682625,29.57,204.5654296875
+546,546,The sound of basketball,noises_without_silence/basketball5.wav,59.827625,28.98,186.07594936708858
+547,547,The sound of Billiards,noises_without_silence/Billiards1.wav,98.9958125,36.95,182.98755186721993
+548,548,The sound of Billiards,noises_without_silence/Billiards2.wav,14.3203125,31.47,204.5654296875
+549,549,The sound of Billiards,noises_without_silence/Billiards3.wav,11.59675,42.59,169.0830093407668
+550,550,The sound of Billiards,noises_without_silence/Billiards4.wav,9.9276875,37.53,260.94674556213016
+551,551,The sound of Billiards,noises_without_silence/Billiards5.wav,66.207375,35.43,200.45454545454547
+552,552,The sound of volleyball,noises_without_silence/volleyball1.wav,51.42375,28.58,341.86046511627904
+553,553,The sound of volleyball,noises_without_silence/volleyball2.wav,7.6736875,46.54,258.3984375
+554,554,The sound of volleyball,noises_without_silence/volleyball3.wav,8.974375,27.12,114.54545454545456
+555,555,The sound of volleyball,noises_without_silence/volleyball4.wav,92.7938125,31.54,260.94674556213016
+556,556,The sound of volleyball,noises_without_silence/volleyball5.wav,90.9413125,32.57,256.3953488372093
+557,557,The sound of badminton,noises_without_silence/badminton1.wav,27.733375,34.1,172.94117647058826
+558,558,The sound of badminton,noises_without_silence/badminton2.wav,15.92175,34.01,143.1818181818182
+559,559,The sound of badminton,noises_without_silence/badminton3.wav,16.3091875,31.62,172.265625
+560,560,The sound of badminton,noises_without_silence/badminton4.wav,5.7339375,36.31,113.04931640625
+561,561,The sound of badminton,noises_without_silence/badminton5.wav,42.6069375,27.55,233.33333333333331
+562,562,The sound of skiing,noises_without_silence/skiing1.wav,39.174125,32.51,188.41552734375
+563,563,The sound of skiing,noises_without_silence/skiing2.wav,12.2235,34.06,188.46153846153842
+564,564,The sound of skiing,noises_without_silence/skiing3.wav,30.862,28.78,166.88232421875
+565,565,The sound of skiing,noises_without_silence/skiing4.wav,27.323875,24.55,185.29411764705884
+566,566,The sound of skiing,noises_without_silence/skiing5.wav,21.18175,30.38,190.08620689655172
+567,567,The sound of dumbbells,noises_without_silence/dumbbells1.wav,6.017,36.08,364.46280991735534
+568,568,The sound of dumbbells,noises_without_silence/dumbbells2.wav,0.7985625,42.01,355.64516129032256
+569,569,The sound of dumbbells,noises_without_silence/dumbbells3.wav,1.15425,18.95,333.7646484375
+570,570,The sound of dumbbells,noises_without_silence/dumbbells4.wav,1.6143125,25.89,109.42928039702234
+571,571,The sound of dumbbells,noises_without_silence/dumbbells5.wav,13.243875,41.86,150.732421875
+572,572,The sound of the referee's whistle,noises_without_silence/referee_whistle1.wav,1.30375,24.52,131.64179104477608
+573,573,The sound of the referee's whistle,noises_without_silence/referee_whistle2.wav,0.7695625,21.28,91.51611328125
+574,574,The sound of the referee's whistle,noises_without_silence/referee_whistle3.wav,1.2965,17.97,118.54838709677419
+575,575,The sound of the referee's whistle,noises_without_silence/referee_whistle4.wav,0.7875625,15.1,92.24290635850694
+576,576,The sound of the referee's whistle,noises_without_silence/referee_whistle5.wav,3.2256875,16.49,123.81591796875
+577,577,The sounds of the gym,noises_without_silence/gym1.wav,91.8029375,31.07,260.94674556213016
+578,578,The sounds of the gym,noises_without_silence/gym2.wav,90.533375,35.6,292.0529801324504
+579,579,The sounds of the gym,noises_without_silence/gym3.wav,91.196,34.8,265.6626506024097
+580,580,The sounds of the gym,noises_without_silence/gym4.wav,139.3945625,20.65,208.0188679245283
+581,581,The sounds of the gym,noises_without_silence/gym5.wav,44.585125,43.28,284.51612903225805
+582,582,The sound of fencing,noises_without_silence/fencing1.wav,25.56,39.67,177.10843373493978
+583,583,The sound of fencing,noises_without_silence/fencing2.wav,14.2289375,37.4,150.732421875
+584,584,The sound of fencing,noises_without_silence/fencing3.wav,59.2514375,33.46,154.1958041958042
+585,585,The sound of fencing,noises_without_silence/fencing4.wav,61.1209375,39.42,173.62204724409452
+586,586,The sound of fencing,noises_without_silence/fencing5.wav,36.61375,28.68,175.0
+587,587,Iron,noises_without_silence/Iron1.wav,58.432125,28.2,263.78173828125
+588,588,Iron,noises_without_silence/Iron2.wav,39.78575,37.62,272.22222222222223
+589,589,Iron,noises_without_silence/Iron3.wav,48.6411875,44.24,213.0434782608696
+590,590,Iron,noises_without_silence/Iron4.wav,107.1363125,24.65,250.5681818181818
+591,591,Iron,noises_without_silence/Iron5.wav,12.8561875,25.67,139.9658203125
+592,592,The sound of chess,noises_without_silence/chess3.wav,3.7138125,29.23,156.11572265625
+593,593,The sound of chess,noises_without_silence/chess4.wav,26.1010625,27.7,180.7377049180328
+594,594,Sounds of the big tenis,noises_without_silence/big_tenis1.wav,8.4353125,17.79,221.60804020100502
+595,595,Sounds of the big tenis,noises_without_silence/big_tenis2.wav,15.3713125,33.54,209.00473933649292
+596,596,Sounds of the big tenis,noises_without_silence/big_tenis3.wav,8.5304375,26.82,329.1044776119403
+597,597,Sounds of the big tenis,noises_without_silence/big_tenis4.wav,44.372625,31.32,167.680608365019
+598,598,Sounds of the big tenis,noises_without_silence/big_tenis5.wav,103.4245625,31.77,234.95524332926675
+599,599,The sounds of a computer mouse,noises_without_silence/mouse1.wav,0.53675,42.28,181.48148148148152
+600,600,The sounds of a computer mouse,noises_without_silence/mouse2.wav,22.0576875,33.75,179.2682926829268
+601,601,The sounds of a computer mouse,noises_without_silence/mouse3.wav,2.504875,29.1,134.58251953125
+602,602,The sounds of a computer mouse,noises_without_silence/mouse4.wav,0.572125,34.08,85.9375
+603,603,The sounds of a computer mouse,noises_without_silence/mouse5.wav,0.72225,29.01,109.46044921875
+604,604,The sound of the TV,noises_without_silence/TV1.wav,18.3594375,10.89,333.984375
+605,605,The sound of the TV,noises_without_silence/TV2.wav,26.96,14.8,151.02739726027397
+606,606,The sound of the TV,noises_without_silence/TV3.wav,98.5696875,30.95,187.6595744680851
+607,607,The sound of the TV,noises_without_silence/TV4.wav,3.8639375,26.44,127.82608695652172
+608,608,The sound of the TV,noises_without_silence/TV5.wav,32.191125,30.46,408.33333333333326
+609,609,Keyboard sounds,noises_without_silence/Keyboard1.wav,4.4265625,24.31,126.0
+610,610,Keyboard sounds,noises_without_silence/Keyboard3.wav,60.9553125,39.09,173.91304347826087
+611,611,Keyboard sounds,noises_without_silence/Keyboard4.wav,28.8643125,33.81,161.4990234375
+612,612,Keyboard sounds,noises_without_silence/Keyboard5.wav,30.90175,29.73,180.0
+613,613,The sounds of the air conditioner,noises_without_silence/conditioner1.wav,35.8015625,28.9,141.76025390625
+614,614,The sounds of the air conditioner,noises_without_silence/conditioner2.wav,24.058875,32.35,177.10843373493978
+615,615,The sounds of the air conditioner,noises_without_silence/conditioner3.wav,60.282625,17.74,141.34615384615384
+616,616,The sounds of the air conditioner,noises_without_silence/conditioner4.wav,61.5309375,31.34,282.6923076923077
+617,617,The sounds of the air conditioner,noises_without_silence/conditioner5.wav,63.17725,16.23,262.5
+618,618,Electric kettle sound,noises_without_silence/kettle1.wav,94.6255,22.89,167.680608365019
+619,619,Electric kettle sound,noises_without_silence/kettle2.wav,44.0985625,23.58,264.07185628742513
+620,620,Electric kettle sound,noises_without_silence/kettle3.wav,34.8345625,23.6,249.15254237288138
+621,621,Electric kettle sound,noises_without_silence/kettle4.wav,57.501625,26.51,203.2258064516129
+622,622,Electric kettle sound,noises_without_silence/kettle5.wav,57.0404375,27.61,200.45454545454547
+623,623,The sounds of coins,noises_without_silence/coins1.wav,3.86625,40.69,140.89456869009584
+624,624,The sounds of coins,noises_without_silence/coins2.wav,1.0998125,31.22,194.27312775330398
+625,625,The sounds of coins,noises_without_silence/coins3.wav,0.7550625,21.37,113.04931640625
+626,626,The sounds of coins,noises_without_silence/coins4.wav,40.9384375,39.52,161.4990234375
+627,627,The sounds of coins,noises_without_silence/coins5.wav,1.050125,25.99,113.04931640625
+628,628,The sound of the razor,noises_without_silence/razor1.wav,37.3874375,36.27,218.3168316831683
+629,629,The sound of the razor,noises_without_silence/razor2.wav,19.9588125,25.63,273.91304347826093
+630,630,The sound of the razor,noises_without_silence/razor3.wav,15.9955,31.77,172.94117647058826
+631,631,The sound of the razor,noises_without_silence/razor4.wav,5.5596875,39.57,177.10843373493978
+632,632,The sound of the razor,noises_without_silence/razor5.wav,106.80325,26.28,253.4482758620689
+633,633,The sound of a hair clipper,noises_without_silence/hair_clipper1.wav,19.9878125,26.02,273.91304347826093
+634,634,The sound of a hair clipper,noises_without_silence/hair_clipper2.wav,5.9943125,29.99,186.07594936708858
+635,635,The sound of a hair clipper,noises_without_silence/hair_clipper3.wav,7.4454375,52.58,248.70466321243526
+636,636,The sound of a hair clipper,noises_without_silence/hair_clipper4.wav,61.047375,26.12,127.45664739884391
+637,637,The sound of a hair clipper,noises_without_silence/hair_clipper5.wav,106.8293125,26.74,134.45121951219508
+638,638,Sounds of hockey,noises_without_silence/hockey1.wav,24.67425,21.38,227.319587628866
+639,639,Sounds of hockey,noises_without_silence/hockey2.wav,38.4411875,34.22,302.05479452054794
+640,640,Sounds of hockey,noises_without_silence/hockey3.wav,90.0153125,34.17,187.6595744680851
+641,641,Sounds of hockey,noises_without_silence/hockey4.wav,0.5731875,23.48,123.81591796875
+642,642,Sounds of hockey,noises_without_silence/hockey5.wav,48.8050625,32.28,177.64892578125
+643,643,The sounds of a dove,noises_without_silence/dove1.wav,8.55225,37.22,156.11572265625
+644,644,The sounds of a dove,noises_without_silence/dove2.wav,25.0934375,32.79,182.5095057034221
+645,645,The sounds of a dove,noises_without_silence/dove3.wav,21.530375,28.52,152.0689655172414
+646,646,The sounds of a dove,noises_without_silence/dove4.wav,31.1348125,33.72,290.13157894736844
+647,647,The sounds of a dove,noises_without_silence/dove5.wav,21.5290625,15.7,421.0526315789474
+648,648,The noise of the garbage truck,noises_without_silence/garbage_truck1.wav,31.0944375,22.83,331.57894736842104
+649,649,The noise of the garbage truck,noises_without_silence/garbage_truck2.wav,43.483000000000004,22.06,159.7826086956522
+650,650,The noise of the garbage truck,noises_without_silence/garbage_truck3.wav,69.4486875,27.64,226.15384615384616
+651,651,The noise of the garbage truck,noises_without_silence/garbage_truck4.wav,6.700125,30.53,200.45454545454547
+652,652,The noise of the garbage truck,noises_without_silence/garbage_truck5.wav,44.760125,22.57,196.0
+653,653,The click of heels,noises_without_silence/heels1.wav,62.0891875,39.2,164.55223880597015
+654,654,The click of heels,noises_without_silence/heels2.wav,7.732375,40.17,122.84122562674095
+655,655,The click of heels,noises_without_silence/heels3.wav,17.8590625,42.97,184.51882845188285
+656,656,The click of heels,noises_without_silence/heels4.wav,4.9896875,36.34,188.46153846153842
+657,657,The click of heels,noises_without_silence/heels5.wav,12.6968125,37.9,168.96551724137933
+658,658,The sound of knitting,noises_without_silence/knitting1.wav,54.6195625,43.3,162.73062730627305
+659,659,The sound of knitting,noises_without_silence/knitting2.wav,30.48575,18.54,200.45454545454547
+660,660,The sound of knitting,noises_without_silence/knitting3.wav,49.3065,24.48,198.64864864864865
+661,661,The sound of knitting,noises_without_silence/knitting5.wav,42.4293125,51.08,159.7826086956522
+662,662,The sound of the alarm clock,noises_without_silence/alarm_clock1.wav,21.461125,29.54,137.38317757009347
+663,663,The sound of the alarm clock,noises_without_silence/alarm_clock2.wav,20.953875,23.2,156.93950177935943
+664,664,The sound of the alarm clock,noises_without_silence/alarm_clock3.wav,15.21,28.08,162.13235294117646
+665,665,The sound of the alarm clock,noises_without_silence/alarm_clock4.wav,4.1125,27.8,102.28271484375
+666,666,The sound of the alarm clock,noises_without_silence/alarm_clock5.wav,3.106375,13.79,105.25059665871122
+667,667,The sounds of shovels,noises_without_silence/shovels1.wav,6.809125,32.14,168.96551724137933
+668,668,The sounds of shovels,noises_without_silence/shovels2.wav,1.7661875,15.91,131.64179104477608
+669,669,The sounds of shovels,noises_without_silence/shovels3.wav,22.629125,30.62,169.61538461538458
+670,670,The sounds of shovels,noises_without_silence/shovels4.wav,1.548,33.16,124.92917847025495
+671,671,The sounds of shovels,noises_without_silence/shovels5.wav,58.2834375,47.69,199.18212890625
+672,672,Highway,noises_without_silence/Highway1.wav,16.2283125,31.05,169.61538461538458
+673,673,Highway,noises_without_silence/Highway2.wav,126.383375,28.34,239.67391304347825
+674,674,Highway,noises_without_silence/Highway3.wav,97.179875,24.62,254.91329479768783
+675,675,Highway,noises_without_silence/Highway4.wav,177.5565625,28.89,304.9041748046875
+676,676,Highway,noises_without_silence/Highway5.wav,85.1706875,24.8,260.94674556213016
+677,677,Dog barking,noises_without_silence/Dog1.wav,15.81975,21.82,428.1553398058253
+678,678,Dog barking,noises_without_silence/Dog2.wav,86.1381875,27.26,441.0
+679,679,Dog barking,noises_without_silence/Dog3.wav,4.6396875,36.21,150.732421875
+680,680,Dog barking,noises_without_silence/Dog4.wav,13.38875,21.02,295.9731543624161
+681,681,Dog barking,noises_without_silence/Dog5.wav,14.4225625,23.6,436.04736328125
+682,682,The cat's meow,noises_without_silence/meow1.wav,1.039375,18.89,214.7651006711409
+683,683,The cat's meow,noises_without_silence/meow2.wav,25.901375,23.01,441.4306640625
+684,684,The cat's meow,noises_without_silence/meow3.wav,30.014375,33.61,432.35294117647067
+685,685,The cat's meow,noises_without_silence/meow4.wav,22.149125,31.49,436.6336633663366
+686,686,The cat's meow,noises_without_silence/meow5.wav,20.4625625,25.63,355.64516129032256
+687,687,Night,noises_without_silence/night1.wav,27.9915625,28.0,286.3636363636364
+688,688,Night,noises_without_silence/night2.wav,4.60125,16.67,400.0
+689,689,Night,noises_without_silence/night3.wav,23.3088125,16.27,250.5681818181818
+690,690,Night,noises_without_silence/night4.wav,12.979875,30.2,173.62204724409452
+691,691,Night,noises_without_silence/night5.wav,63.1369375,53.65,206.07476635514016
+692,692,Sounds of a tattoo machine,noises_without_silence/tattoo1.wav,60.5505,40.57,275.625
+693,693,Sounds of a tattoo machine,noises_without_silence/tattoo2.wav,6.1009375,37.15,135.69230769230768
+694,694,Sounds of a tattoo machine,noises_without_silence/tattoo3.wav,16.246875,51.09,123.52941176470587
+695,695,Sounds of a tattoo machine,noises_without_silence/tattoo4.wav,9.7578125,32.14,108.08823529411764
+696,696,Sounds of a tattoo machine,noises_without_silence/tattoo5.wav,120.0103125,39.14,277.3584905660377
+697,697,The sound of chair,noises_without_silence/chair1.wav,5.2828125,33.16,254.91329479768783
+698,698,The sound of chair,noises_without_silence/chair2.wav,10.9460625,41.42,150.732421875
+699,699,The sound of chair,noises_without_silence/chair3.wav,2.0996875,31.44,134.45121951219508
+700,700,The sound of chair,noises_without_silence/chair4.wav,37.8238125,27.08,400.9090909090909
+701,701,The sound of chair,noises_without_silence/chair5.wav,3.4989375,23.54,123.81591796875
+702,702,Beeps,noises_without_silence/Beeps1.wav,7.1339999999999995,19.17,317.2661870503597
+703,703,Beeps,noises_without_silence/Beeps2.wav,3.7363125,27.56,220.5
+704,704,Beeps,noises_without_silence/Beeps3.wav,5.22475,23.59,397.2972972972973
+705,705,Beeps,noises_without_silence/Beeps4.wav,7.1081875,18.18,386.84210526315786
+706,706,Beeps,noises_without_silence/Beeps5.wav,6.7745,28.14,292.6829268292683
+707,707,The sounds of glass bottles,noises_without_silence/glass_bottles1.wav,2.8346875,21.3,177.64892578125
+708,708,The sounds of glass bottles,noises_without_silence/glass_bottles2.wav,8.24125,32.04,136.11111111111111
+709,709,The sounds of glass bottles,noises_without_silence/glass_bottles3.wav,5.8325625,36.69,166.88232421875
+710,710,The sounds of glass bottles,noises_without_silence/glass_bottles5.wav,3.8484375,21.07,177.10843373493978
+711,711,The clock strikes,noises_without_silence/clock_strikes1.wav,14.7614375,14.24,301.8867924528302
+712,712,The clock strikes,noises_without_silence/clock_strikes2.wav,51.256375,26.51,288.23529411764713
+713,713,The clock strikes,noises_without_silence/clock_strikes3.wav,50.804375,26.59,201.36986301369862
+714,714,The clock strikes,noises_without_silence/clock_strikes4.wav,71.9110625,29.19,242.3076923076923
+715,715,The clock strikes,noises_without_silence/clock_strikes5.wav,16.246,31.25,282.6923076923077
+716,716,The sound of popcorn,noises_without_silence/popcorn1.wav,21.0399375,72.49,166.88232421875
+717,717,The sound of popcorn,noises_without_silence/popcorn2.wav,14.14375,25.55,155.8303886925795
+718,718,The sound of popcorn,noises_without_silence/popcorn3.wav,34.0375625,29.79,138.24451410658307
+719,719,The sound of popcorn,noises_without_silence/popcorn4.wav,34.0375625,29.79,138.24451410658307
+720,720,The sound of popcorn,noises_without_silence/popcorn5.wav,82.093875,32.46,214.7651006711409
+721,721,The sound of chips crunching,noises_without_silence/chips_crunching1.wav,10.933,43.25,154.1958041958042
+722,722,The sound of chips crunching,noises_without_silence/chips_crunching2.wav,13.893875,44.67,179.2682926829268
+723,723,The sound of chips crunching,noises_without_silence/chips_crunching3.wav,0.79425,30.15,114.84375
+724,724,The sound of chips crunching,noises_without_silence/chips_crunching4.wav,7.8316875,47.88,264.07185628742513
+725,725,The sound of chips crunching,noises_without_silence/chips_crunching5.wav,2.41075,32.15,156.11572265625
+726,726,Sounds of opening a packet of chips,noises_without_silence/opening_packet1.wav,5.8311875,35.16,178.7709497206704
+727,727,Sounds of opening a packet of chips,noises_without_silence/opening_packet2.wav,1.2144375,35.67,128.19767441860466
+728,728,Sounds of opening a packet of chips,noises_without_silence/opening_packet3.wav,70.3025625,41.8,268.90243902439016
+729,729,Sounds of opening a packet of chips,noises_without_silence/opening_packet4.wav,3.7110000000000003,33.02,139.9658203125
+730,730,Sounds of opening a packet of chips,noises_without_silence/opening_packet5.wav,46.642875,36.37,150.732421875
+731,731,The sound of music,noises_without_silence/music1.wav,114.768125,14.71,329.1044776119403
+732,732,The sound of music,noises_without_silence/music2.wav,59.7788125,17.38,352.8
+733,733,The sound of music,noises_without_silence/music3.wav,118.2840625,15.84,355.64516129032256
+734,734,The sound of music,noises_without_silence/music4.wav,153.7481875,15.82,344.53125
+735,735,The sound of music,noises_without_silence/music5.wav,42.6566875,22.33,329.1044776119403
+736,736,Bigben's clock sounds,noises_without_silence/Bigben1.wav,26.7556875,19.36,200.45454545454547
+737,737,Bigben's clock sounds,noises_without_silence/Bigben2.wav,58.6656875,23.8,225.0
+738,738,Bigben's clock sounds,noises_without_silence/Bigben3.wav,21.5465625,22.26,304.1379310344828
+739,739,Bigben's clock sounds,noises_without_silence/Bigben4.wav,85.6530625,24.82,350.0
+740,740,Bigben's clock sounds,noises_without_silence/Bigben5.wav,40.5774375,26.0,217.24137931034485
+741,741,Sounds of the market,noises_without_silence/market1.wav,70.1660625,31.2,355.64516129032256
+742,742,Sounds of the market,noises_without_silence/market2.wav,103.9153125,23.61,383.4782608695652
+743,743,Sounds of the market,noises_without_silence/market3.wav,149.9689375,20.73,404.5871559633028
+744,744,Sounds of the market,noises_without_silence/market4.wav,65.2058125,31.25,302.05479452054794
+745,745,Sounds of the market,noises_without_silence/market5.wav,81.3888125,36.95,247.7528089887641
+746,746,The sound station,noises_without_silence/station1.wav,42.1955,26.19,216.17647058823533
+747,747,The sound station,noises_without_silence/station2.wav,66.3009375,23.32,227.319587628866
+748,748,The sound station,noises_without_silence/station3.wav,88.7096875,23.91,306.84814453125
+749,749,The sound station,noises_without_silence/station4.wav,17.9386875,23.71,188.46153846153842
+750,750,The sound station,noises_without_silence/station5.wav,109.977125,28.75,209.94873046875
+751,751,Announcement at the train station,noises_without_silence/Announcement_train1.wav,21.7085625,19.29,275.625
+752,752,Announcement at the train station,noises_without_silence/Announcement_train2.wav,7.195375,48.43,352.8
+753,753,Announcement at the train station,noises_without_silence/Announcement_train3.wav,60.1750625,28.06,199.21875
+754,754,Announcement at the train station,noises_without_silence/Announcement_train4.wav,40.00675,25.6,213.0434782608696
+755,755,Announcement at the train station,noises_without_silence/Announcement_train5.wav,5.301125,23.94,262.5
+756,756,pump,noises_without_silence/pump1.wav,32.2760625,33.86,220.5
+757,757,pump,noises_without_silence/pump2.wav,30.839625,24.2,217.24137931034485
+758,758,pump,noises_without_silence/pump3.wav,46.8768125,30.7,168.3206106870229
+759,759,pump,noises_without_silence/pump4.wav,9.434125,17.16,166.88232421875
+760,760,pump,noises_without_silence/pump5.wav,44.3820625,16.76,186.86440677966098
+761,761,Sounds of the aquapark,noises_without_silence/aquapark1.wav,117.50175,26.12,319.5652173913044
+762,762,Sounds of the aquapark,noises_without_silence/aquapark2.wav,26.66925,25.84,218.3168316831683
+763,763,Sounds of the aquapark,noises_without_silence/aquapark3.wav,47.486625,26.33,242.24853515625
+764,764,Sounds of the aquapark,noises_without_silence/aquapark4.wav,58.82775,27.8,220.71533203125
+765,765,Sounds of the aquapark,noises_without_silence/aquapark5.wav,119.8794375,18.44,252.0
+766,766,Sounds of the feast,noises_without_silence/feast1.wav,203.252625,32.89,275.625
+767,767,Sounds of the feast,noises_without_silence/feast2.wav,10.6850625,46.39,139.9658203125
+768,768,Sounds of the feast,noises_without_silence/feast3.wav,63.3539375,36.38,264.07185628742513
+769,769,Sounds of the feast,noises_without_silence/feast4.wav,119.9575,34.38,277.3584905660377
+770,770,Sounds of the feast,noises_without_silence/feast5.wav,26.8245,31.03,393.75
+771,771,Lab sounds,noises_without_silence/lab1.wav,90.1150625,20.39,168.96551724137933
+772,772,Lab sounds,noises_without_silence/lab2.wav,29.4355,17.58,182.98755186721993
+773,773,Lab sounds,noises_without_silence/lab3.wav,60.6046875,19.46,165.78947368421052
+774,774,Lab sounds,noises_without_silence/lab4.wav,32.132,20.11,173.62204724409452
+775,775,Lab sounds,noises_without_silence/lab5.wav,64.6976875,23.19,213.0434782608696
+776,776,Sounds of the Oriental Bazaar,noises_without_silence/Oriental_Bazaar1.wav,65.2058125,31.25,302.05479452054794
+777,777,Sounds of the Oriental Bazaar,noises_without_silence/Oriental_Bazaar2.wav,73.823625,26.98,383.4782608695652
+778,778,Sounds of the Oriental Bazaar,noises_without_silence/Oriental_Bazaar3.wav,63.0841875,31.15,310.5633802816901
+779,779,Sounds of the Oriental Bazaar,noises_without_silence/Oriental_Bazaar4.wav,81.3888125,36.95,247.7528089887641
+780,780,Sounds of the Oriental Bazaar,noises_without_silence/Oriental_Bazaar5.wav,299.5330625,27.71,383.4782608695652
+781,781,Kitchen sounds,noises_without_silence/Kitchen1.wav,138.624625,21.6,352.8
+782,782,Kitchen sounds,noises_without_silence/Kitchen2.wav,110.028125,30.8,234.5744680851064
+783,783,Kitchen sounds,noises_without_silence/Kitchen3.wav,97.803125,29.03,258.2817386936497
+784,784,Kitchen sounds,noises_without_silence/Kitchen4.wav,58.87825,29.18,232.10526315789474
+785,785,Kitchen sounds,noises_without_silence/Kitchen5.wav,338.914375,29.46,295.9731543624161
+786,786,Sounds of rearranging dishes,noises_without_silence/rearranging_dishes1.wav,93.6588125,39.88,206.07476635514016
+787,787,Sounds of rearranging dishes,noises_without_silence/rearranging_dishes2.wav,12.972000000000001,17.8,154.1958041958042
+788,788,Sounds of rearranging dishes,noises_without_silence/rearranging_dishes3.wav,32.9540625,30.8,242.24853515625
+789,789,Sounds of rearranging dishes,noises_without_silence/rearranging_dishes4.wav,14.42225,38.75,166.41509433962264
+790,790,Sounds of rearranging dishes,noises_without_silence/rearranging_dishes5.wav,30.145875,31.81,205.11627906976744
+791,791,Sounds of the Church,noises_without_silence/Church1.wav,40.61475,23.74,424.0384615384616
+792,792,Sounds of the Church,noises_without_silence/Church2.wav,22.5663125,17.08,223.85786802030458
+793,793,Sounds of the Church,noises_without_silence/Church3.wav,113.517375,18.02,312.7659574468085
+794,794,Sounds of the Church,noises_without_silence/Church4.wav,11.8149375,19.21,262.5
+795,795,Sounds of the Church,noises_without_silence/Church5.wav,165.02975,21.24,395.0617283950617
+796,796,Sounds of breaking dishes,noises_without_silence/breaking_dishes1.wav,1.35375,26.8,98.0
+797,797,Sounds of breaking dishes,noises_without_silence/breaking_dishes2.wav,2.87725,29.21,166.41509433962264
+798,798,Sounds of breaking dishes,noises_without_silence/breaking_dishes3.wav,2.1816875,22.55,154.1958041958042
+799,799,Sounds of breaking dishes,noises_without_silence/breaking_dishes4.wav,3.77925,19.55,247.7528089887641
+800,800,Sounds of breaking dishes,noises_without_silence/breaking_dishes5.wav,3.083625,16.46,185.29411764705884
+801,801,The sound of zoo,noises_without_silence/sound_zoo1.wav,13.8848125,28.82,269.1650390625
+802,802,The sound of zoo,noises_without_silence/sound_zoo2.wav,129.7945625,28.39,180.7377049180328
+803,803,The sound of zoo,noises_without_silence/sound_zoo3.wav,7.4069375,25.95,212.0192307692308
+804,804,The sound of zoo,noises_without_silence/sound_zoo4.wav,22.2684375,22.65,308.3916083916084
+805,805,The sound of zoo,noises_without_silence/sound_zoo5.wav,91.739125,35.89,326.6666666666667
+806,806,The sound of the whistle,noises_without_silence/whistle1.wav,8.6449375,28.43,123.81591796875
+807,807,The sound of the whistle,noises_without_silence/whistle2.wav,4.7936875,30.18,93.23467230443974
+808,808,The sound of the whistle,noises_without_silence/whistle3.wav,1.331375,17.81,154.73684210526315
+809,809,The sound of the whistle,noises_without_silence/whistle4.wav,7.8685625,18.83,340.4255319148936
+810,810,The sound of the whistle,noises_without_silence/whistle5.wav,4.5131875,18.88,137.8125
+811,811,The sound of the pet shop,noises_without_silence/pet_shop1.wav,54.4475,36.95,267.27272727272725
+812,812,The sound of the pet shop,noises_without_silence/pet_shop2.wav,119.630125,23.64,209.00473933649292
+813,813,The sound of the pet shop,noises_without_silence/pet_shop3.wav,105.2205,37.43,203.2258064516129
+814,814,The sound of the pet shop,noises_without_silence/pet_shop4.wav,44.770625,39.88,198.64864864864865
+815,815,The sound of the pet shop,noises_without_silence/pet_shop5.wav,32.3818125,39.01,386.84210526315786
+816,816,Sounds of morning in the village,noises_without_silence/morning_village1.wav,21.32575,13.08,308.3916083916084
+817,817,Sounds of morning in the village,noises_without_silence/morning_village2.wav,62.8371875,46.65,161.53846153846158
+818,818,Sounds of morning in the village,noises_without_silence/morning_village3.wav,43.6928125,24.38,315.0
+819,819,Sounds of morning in the village,noises_without_silence/morning_village4.wav,39.848875,25.9,246.36871508379892
+820,820,Sounds of morning in the village,noises_without_silence/morning_village5.wav,393.5764375,31.31,396.6942148760331
+821,821,Baby sound,noises_without_silence/Baby_sound1.wav,66.46475,25.18,446.81396484375
+822,822,Baby sound,noises_without_silence/Baby_sound2.wav,12.0185,38.92,272.22222222222223
+823,823,Baby sound,noises_without_silence/Baby_sound3.wav,12.0185,38.92,272.22222222222223
+824,824,Baby sound,noises_without_silence/Baby_sound4.wav,5.1991875,18.14,191.7391304347826
+825,825,Baby sound,noises_without_silence/Baby_sound5.wav,20.8669375,31.28,358.5365853658536
+826,826,The sounds of the factory and production,noises_without_silence/factory1.wav,22.9770625,21.39,393.75
+827,827,The sounds of the factory and production,noises_without_silence/factory2.wav,27.88025,21.42,302.05479452054794
+828,828,The sounds of the factory and production,noises_without_silence/factory3.wav,66.9926875,16.3,172.94117647058826
+829,829,The sounds of the factory and production,noises_without_silence/factory4.wav,74.547,18.73,181.48148148148152
+830,830,The sounds of the factory and production,noises_without_silence/factory5.wav,125.1861875,19.54,268.90243902439016
+831,831,Sounds of coughing,noises_without_silence/coughing1.wav,17.1243125,25.58,334.09090909090907
+832,832,Sounds of coughing,noises_without_silence/coughing2.wav,2.503,21.88,376.8310546875
+833,833,Sounds of coughing,noises_without_silence/coughing3.wav,2.7311875,28.48,136.11111111111111
+834,834,Sounds of coughing,noises_without_silence/coughing4.wav,1.16775,21.24,191.7391304347826
+835,835,Sounds of coughing,noises_without_silence/coughing5.wav,2.0415,33.91,302.05479452054794
+836,836,The balloon popping,noises_without_silence/balloon_popping1.wav,2.771125,32.35,111.36363636363636
+837,837,The balloon popping,noises_without_silence/balloon_popping2.wav,0.9555,21.05,153.125
+838,838,The balloon popping,noises_without_silence/balloon_popping3.wav,15.2370625,29.55,205.11627906976744
+839,839,The balloon popping,noises_without_silence/balloon_popping4.wav,51.4856875,29.01,328.38134765625
+840,840,The balloon popping,noises_without_silence/balloon_popping5.wav,11.708625,47.52,154.1958041958042
+841,841,Gargle,noises_without_silence/Gargle1.wav,2.6519999999999997,21.79,116.66666666666669
+842,842,Gargle,noises_without_silence/Gargle2.wav,1.954375,25.81,151.5463917525773
+843,843,Gargle,noises_without_silence/Gargle3.wav,1.70075,14.18,130.47337278106508
+844,844,Gargle,noises_without_silence/Gargle4.wav,10.682,20.61,183.0322265625
+845,845,Gargle,noises_without_silence/Gargle5.wav,6.4859375,22.24,228.790283203125
+846,846,Combing,noises_without_silence/Combing1.wav,1.7016875,48.58,132.03592814371257
+847,847,Combing,noises_without_silence/Combing2.wav,8.870375,61.55,155.28169014084506
+848,848,Combing,noises_without_silence/Combing3.wav,20.5968125,48.27,170.27027027027026
+849,849,Combing,noises_without_silence/Combing4.wav,20.6145,44.56,172.265625
+850,850,Combing,noises_without_silence/Combing5.wav,30.1184375,50.89,309.5117568969726
+851,851,Fart sound,noises_without_silence/Fart1.wav,1.3365625,25.33,256.3953488372093
+852,852,Fart sound,noises_without_silence/Fart2.wav,0.8270000000000001,23.47,235.8288770053476
+853,853,Fart sound,noises_without_silence/Fart3.wav,7.832000000000001,24.91,371.44775390625
+854,854,Fart sound,noises_without_silence/Fart4.wav,2.5075625,16.42,159.2057761732852
+855,855,Fart sound,noises_without_silence/Fart5.wav,0.491125,21.18,138.67924528301887
+856,856,the rustling of a bag,noises_without_silence/bug1.wav,1.4301875,32.62,143.1818181818182
+857,857,the rustling of a bag,noises_without_silence/bug2.wav,19.8770625,30.56,187.5
+858,858,the rustling of a bag,noises_without_silence/bug3.wav,77.1356875,41.0,209.94873046875
+859,859,the rustling of a bag,noises_without_silence/bug4.wav,27.3469375,41.57,205.12820512820514
+860,860,the rustling of a bag,noises_without_silence/bug5.wav,7.2070625,22.55,170.93023255813952
+861,861,The sound of blowing your nose,noises_without_silence/blowing_your_nose1.wav,17.8126875,22.3,400.9090909090909
+862,862,The sound of blowing your nose,noises_without_silence/blowing_your_nose2.wav,2.3549375,16.84,272.22222222222223
+863,863,The sound of blowing your nose,noises_without_silence/blowing_your_nose3.wav,15.7155625,25.29,215.33203125
+864,864,The sound of blowing your nose,noises_without_silence/blowing_your_nose4.wav,15.7420625,25.75,215.33203125
+865,865,The sound of blowing your nose,noises_without_silence/blowing_your_nose5.wav,2.1070625,23.14,246.36871508379892
+866,866,The sound of parrot,noises_without_silence/parrot1.wav,13.109125,16.52,400.0
+867,867,The sound of parrot,noises_without_silence/parrot2.wav,30.05075,19.85,157.63546798029557
+868,868,The sound of parrot,noises_without_silence/parrot3.wav,108.88025,16.62,408.33333333333326
+869,869,The sound of parrot,noises_without_silence/parrot4.wav,7.9649375,25.16,148.98648648648648
+870,870,The sound of parrot,noises_without_silence/parrot5.wav,14.550625,26.13,226.0986328125
+871,871,The sound of boiling water in a saucepan,noises_without_silence/water_saucepan1.wav,139.2973125,22.25,294.0
+872,872,The sound of boiling water in a saucepan,noises_without_silence/water_saucepan2.wav,66.06425,28.96,195.13274336283183
+873,873,The sound of boiling water in a saucepan,noises_without_silence/water_saucepan3.wav,23.890875,16.24,185.29411764705884
+874,874,The sound of boiling water in a saucepan,noises_without_silence/water_saucepan4.wav,34.486,39.92,277.3584905660377
+875,875,The sound of boiling water in a saucepan,noises_without_silence/water_saucepan5.wav,20.0259375,34.76,143.1818181818182
+876,876,Sounds of bears,noises_without_silence/bears1.wav,18.701375,25.33,341.86046511627904
+877,877,Sounds of bears,noises_without_silence/bears2.wav,9.3065,17.32,207.20622158308984
+878,878,Sounds of bears,noises_without_silence/bears3.wav,43.021375,15.71,393.75
+879,879,Sounds of bears,noises_without_silence/bears4.wav,51.689125,27.42,231.48193359375
+880,880,Sounds of bears,noises_without_silence/bears5.wav,12.3980625,8.8,445.45454545454544
+881,881,The sound of the bumblebee,noises_without_silence/bumblebee1.wav,12.677875,23.31,144.11764705882354
+882,882,The sound of the bumblebee,noises_without_silence/bumblebee2.wav,56.723375,42.77,155.28169014084506
+883,883,The sound of the bumblebee,noises_without_silence/bumblebee3.wav,4.836625,47.83,181.48148148148152
+884,884,The sound of the bumblebee,noises_without_silence/bumblebee4.wav,13.77,21.32,292.96875
+885,885,The sound of the bumblebee,noises_without_silence/bumblebee5.wav,16.4988125,23.37,226.15384615384616
+886,886,The sound of torn paper,noises_without_silence/torn_paper1.wav,1.2136875,26.44,133.70473537604457
+887,887,The sound of torn paper,noises_without_silence/torn_paper2.wav,13.925875,27.01,175.69721115537845
+888,888,The sound of torn paper,noises_without_silence/torn_paper3.wav,7.4771875,35.4,151.40533447265625
+889,889,The sound of torn paper,noises_without_silence/torn_paper4.wav,19.20375,21.41,162.43654822335026
+890,890,The sound of torn paper,noises_without_silence/torn_paper5.wav,3.9453125,34.68,170.8185053380783
+891,891,The sound of crumpled paper,noises_without_silence/crumpled_paper1.wav,10.160125,38.18,116.97612732095492
+892,892,The sound of crumpled paper,noises_without_silence/crumpled_paper2.wav,1.9019375,28.15,135.2112676056338
+893,893,The sound of crumpled paper,noises_without_silence/crumpled_paper3.wav,1.7294375,33.95,139.94002151769925
+894,894,The sound of crumpled paper,noises_without_silence/crumpled_paper4.wav,2.351625,35.01,124.67532467532469
+895,895,The sound of crumpled paper,noises_without_silence/crumpled_paper5.wav,7.2314375,33.02,114.84375
+896,896,The sound of the door lock,noises_without_silence/door_lock1.wav,3.4741875,30.19,156.93950177935943
+897,897,The sound of the door lock,noises_without_silence/door_lock2.wav,0.409,33.64,161.53846153846158
+898,898,The sound of the door lock,noises_without_silence/door_lock3.wav,5.4229375,37.22,193.798828125
+899,899,The sound of the door lock,noises_without_silence/door_lock4.wav,3.4931875,46.76,130.08849557522123
+900,900,The sound of the door lock,noises_without_silence/door_lock5.wav,27.2943125,36.06,139.5569620253165
+901,901,Sound of cut paper,noises_without_silence/cut_paper1.wav,15.3331875,28.23,171.5953307392996
+902,902,Sound of cut paper,noises_without_silence/cut_paper2.wav,6.0065,30.41,150.0
+903,903,Sound of cut paper,noises_without_silence/cut_paper3.wav,4.3608125,31.72,145.01510574018127
+904,904,Sound of cut paper,noises_without_silence/cut_paper4.wav,2.2273125,40.79,118.4326171875
+905,905,Sound of cut paper,noises_without_silence/cut_paper5.wav,12.1573125,41.66,175.0
+906,906,The sound of bells,noises_without_silence/bells1.wav,17.338875,25.61,172.265625
+907,907,The sound of bells,noises_without_silence/bells2.wav,60.512625,28.76,214.07766990291265
+908,908,The sound of bells,noises_without_silence/bells3.wav,36.0576875,28.17,183.0322265625
+909,909,The sound of bells,noises_without_silence/bells4.wav,19.7248125,27.89,152.59515570934255
+910,910,The sound of bells,noises_without_silence/bells5.wav,8.4855625,29.48,214.28571428571428
+911,911,The sound of the grinder,noises_without_silence/grinder1.wav,34.3025,19.96,163.94052044609666
+912,912,The sound of the grinder,noises_without_silence/grinder2.wav,17.3626875,15.02,196.31901840490798
+913,913,The sound of the grinder,noises_without_silence/grinder3.wav,11.5385625,21.36,221.60804020100502
+914,914,The sound of the grinder,noises_without_silence/grinder4.wav,15.3364375,12.04,159.2057761732852
+915,915,The sound of the grinder,noises_without_silence/grinder5.wav,10.6354375,22.11,199.18212890625
+916,916,The sound of a Bicycle bell,noises_without_silence/Bicycle_bell1.wav,7.5635625,14.23,134.58251953125
+917,917,The sound of a Bicycle bell,noises_without_silence/Bicycle_bell2.wav,3.9315,40.27,148.4848484848485
+918,918,The sound of a Bicycle bell,noises_without_silence/Bicycle_bell3.wav,10.7065,30.25,118.4326171875
+919,919,The sound of a Bicycle bell,noises_without_silence/Bicycle_bell4.wav,10.63625,32.58,148.98648648648648
+920,920,The sound of a Bicycle bell,noises_without_silence/Bicycle_bell5.wav,8.869625,20.73,123.81591796875
+921,921,The sound of a baby rattle,noises_without_silence/baby_rattle1.wav,7.7004375,36.45,134.58251953125
+922,922,The sound of a baby rattle,noises_without_silence/baby_rattle2.wav,5.5744375,35.29,151.5463917525773
+923,923,The sound of a baby rattle,noises_without_silence/baby_rattle3.wav,3.0629375,20.91,128.57142857142858
+924,924,The sound of a baby rattle,noises_without_silence/baby_rattle4.wav,5.1754375,30.98,162.73062730627305
+925,925,The sound of a baby rattle,noises_without_silence/baby_rattle5.wav,4.9634375,26.38,141.8006430868167
+926,926,Sound of a customer with a cart,noises_without_silence/cart1.wav,2.5693125,35.08,129.19921875
+927,927,Sound of a customer with a cart,noises_without_silence/cart2.wav,31.7460625,28.55,187.6595744680851
+928,928,Sound of a customer with a cart,noises_without_silence/cart3.wav,53.735125,33.26,178.54251012145747
+929,929,Sound of a customer with a cart,noises_without_silence/cart4.wav,18.2671875,37.32,169.61538461538458
+930,930,Sound of a customer with a cart,noises_without_silence/cart5.wav,50.0959375,29.34,215.33203125
+931,931,The sound of the rope,noises_without_silence/rope1.wav,17.6601875,42.15,295.9731543624161
+932,932,The sound of the rope,noises_without_silence/rope2.wav,6.5475625,30.57,172.94117647058826
+933,933,The sound of the rope,noises_without_silence/rope3.wav,25.5749375,22.05,189.2703862660944
+934,934,The sound of the rope,noises_without_silence/rope4.wav,29.9243125,28.22,191.7391304347826
+935,935,The sound of the rope,noises_without_silence/rope5.wav,17.6251875,27.52,164.55223880597015
+936,936,The sound of Scotch tape,noises_without_silence/Scotch1.wav,4.7260625,28.14,139.9658203125
+937,937,The sound of Scotch tape,noises_without_silence/Scotch2.wav,1.057125,21.4,156.11572265625
+938,938,The sound of Scotch tape,noises_without_silence/Scotch3.wav,20.0131875,33.52,263.78173828125
+939,939,The sound of Scotch tape,noises_without_silence/Scotch4.wav,5.8833125,26.53,234.5744680851064
+940,940,The sound of Scotch tape,noises_without_silence/Scotch5.wav,5.591,29.16,193.421052631579
+941,941,The sound of metal grinding,noises_without_silence/metal_grinding1.wav,18.229,27.3,262.5
+942,942,The sound of metal grinding,noises_without_silence/metal_grinding2.wav,38.2748125,33.05,361.4754098360656
+943,943,The sound of metal grinding,noises_without_silence/metal_grinding3.wav,63.8824375,27.12,238.37837837837841
+944,944,The sound of metal grinding,noises_without_silence/metal_grinding4.wav,2.396625,20.57,322.998046875
+945,945,The sound of metal grinding,noises_without_silence/metal_grinding5.wav,11.139625,22.56,220.5
+946,946,The sound of glass grinding,noises_without_silence/glass_grinding1.wav,6.80375,24.23,380.17241379310343
+947,947,The sound of glass grinding,noises_without_silence/glass_grinding2.wav,6.80375,24.23,380.17241379310343
+948,948,The sound of glass grinding,noises_without_silence/glass_grinding3.wav,22.4325,36.3,363.28125
+949,949,The sound of glass grinding,noises_without_silence/glass_grinding4.wav,31.643375,28.65,182.98755186721993
+950,950,The sound of glass grinding,noises_without_silence/glass_grinding5.wav,64.73475,33.45,322.265625
