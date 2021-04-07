@@ -13,5 +13,6 @@
   <li><a href = 'https://github.com/Alena0704/intelligent-noise-reduction/tree/segan'>Шумоподавление с помощью SEGAN</a></li>
   <li><a href='https://github.com/Alena0704/intelligent-noise-reduction/tree/wavenet>Шумоподавление с помощью WaveNet</a></li>
   <li><a href = 'https://github.com/Alena0704/intelligent-noise-reduction/tree/analize_audio'>Анализ набора данных или аудиосигналов</a></li>
+  <li><a href = 'https://github.com/Alena0704/intelligent-noise-reduction/tree/Demoucs_from_Facebook'>Шумоподавление с помощью Demoucs от Facebook</a></li>
     </ul>
    Данная работа носит исследовательский характер в качестве изучения методов шумоподавления, которые были популярны за последние 5 лет.
